@@ -2,11 +2,11 @@
   "heading": "Vuotuinen inflaatio Euroopassa lokakuussa 2022",
   "subheading": "Inflaatio (%) YKHI:llä mitattuna; Euroopan unionin keskiarvo: 11,5 %",
   "legend1": "Tietoja ei ole saatavilla",
-  "tooltip1": "%",
+  "tooltip1": "",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
   "textNoteDescription": "Merkintä",
   "textNote": "Eurostat on Euroopan unionin tilastotoimisto, jonka tehtävänä on julkaista korkealaatuisia Euroopan laajuisia tilastoja ja indikaattoreita, jotka mahdollistavat maiden ja alueiden välisen vertailun.",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/documents/2995521/15265521/2-17112022-AP-EN.pdf/b6953137-786e-ed9c-5ee2-6812c0f8f07f?t=166859925"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/documents/2995521/15265521/2-17112022-AP-EN.pdf/b6953137-786e-ed9c-5ee2-6812c0f8f07f?t=1668159925"
 }
