@@ -1,12 +1,12 @@
 {
-  "heading": "Metinis infliacijos lygis Europoje 2022 m. spalio mėn",
-  "subheading": "Infliacijos lygiai (%), matuojami SVKI; Europos Sąjungos vidurkis: 11,5 proc.",
+  "heading": "Metiniai infliacijos rodikliai Europoje 2022 m. spalio mėn.",
+  "subheading": "Infliacijos rodikliai (%), matuojami pagal HICP; Europos Sąjungos vidurkis: 11,5 %",
   "legend1": "Nėra duomenų",
   "tooltip1": "",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "Eurostatas yra Europos Sąjungos statistikos tarnyba, atsakinga už aukštos kokybės visos Europos statistikos ir rodiklių, leidžiančių palyginti šalis ir regionus, skelbimą.",
-  "textDataAccess": "Pasiekite duomenis",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/documents/2995521/15265521/2-17112022-AP-EN.pdf/b6953137-786e-ed9c-5ee2-6812c0f8f07f?t=1668159925"
+  "textNote": "„Eurostat“ yra Europos Sąjungos statistikos tarnyba, atsakinga už aukštos kokybės visos Europos statistikos ir rodiklių, leidžiančių palyginti šalis ir regionus, skelbimą.",
+  "textDataAccess": "Prieiga prie duomenų",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/documents/2995521/15265521/2-17112022-AP-EN.pdf/b6953137-786e-ed9c-5ee2-6812c0f8f07f?t=1668599256161"
 }

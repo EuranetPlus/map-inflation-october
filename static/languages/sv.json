@@ -1,12 +1,12 @@
 {
   "heading": "Årlig inflation i Europa i oktober 2022",
-  "subheading": "Inflationstakten (%) mätt med HIKP; EU-genomsnitt: 11,5 %",
-  "legend1": "Ingen data tillgänglig",
+  "subheading": "Inflationstakt (%) mätt med HIKP; genomsnitt för Europeiska unionen: 11,5 %",
+  "legend1": "Inga data tillgängliga",
   "tooltip1": "",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat",
   "textNoteDescription": "Notera",
-  "textNote": "Eurostat är Europeiska unionens statistikkontor, som ansvarar för att publicera högkvalitativ europeisk statistik och indikatorer som möjliggör jämförelser mellan länder och regioner.",
-  "textDataAccess": "Få åtkomst till data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/documents/2995521/15265521/2-17112022-AP-EN.pdf/b6953137-786e-ed9c-5ee2-6812c0f8f07f?t=166681692"
+  "textNote": "Eurostat är Europeiska unionens statistikkontor och ansvarar för att publicera högkvalitativ statistik och indikatorer för hela Europa som möjliggör jämförelser mellan länder och regioner.",
+  "textDataAccess": "Åtkomst till data",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/documents/2995521/15265521/2-17112022-AP-EN.pdf/b6953137-786e-ed9c-5ee2-6812c0f8f07f?t=1668599256161"
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "Roczne stopy inflacji w Europie w październiku 2022 r",
-  "subheading": "Stopy inflacji (%) mierzone wskaźnikiem HICP; Średnia Unii Europejskiej: 11,5%",
+  "heading": "Roczne wskaźniki inflacji w Europie w październiku 2022 r.",
+  "subheading": "Stopy inflacji (%) mierzone wskaźnikiem HICP; średnia dla Unii Europejskiej: 11,5%",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "",
   "textSourceDescription": "Źródło",
-  "textSource": "Eurostatu",
+  "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
-  "textNote": "Eurostat to urząd statystyczny Unii Europejskiej odpowiedzialny za publikowanie wysokiej jakości ogólnoeuropejskich statystyk i wskaźników, które umożliwiają porównania między krajami i regionami.",
-  "textDataAccess": "Uzyskaj dostęp do danych",
+  "textNote": "Eurostat to urząd statystyczny Unii Europejskiej odpowiedzialny za publikację wysokiej jakości statystyk i wskaźników obejmujących całą Europę, które umożliwiają porównywanie krajów i regionów.",
+  "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/documents/2995521/15265521/2-17112022-AP-EN.pdf/b6953137-786e-ed9c-5ee2-6812c0f8f07f?t=1668599256161"
 }

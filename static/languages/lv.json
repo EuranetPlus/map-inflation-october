@@ -1,12 +1,12 @@
 {
-  "heading": "Gada inflācijas rādītāji Eiropā 2022. gada oktobrī",
-  "subheading": "Inflācijas rādītāji (%), ko mēra ar SPCI; Eiropas Savienībā vidēji: 11,5%",
-  "legend1": "Nav pieejami dati",
+  "heading": "Gada inflācijas rādītāji Eiropā 2022. gada oktobrī",
+  "subheading": "Inflācijas rādītāji (%), ko mēra ar SPCI; Eiropas Savienības vidējais rādītājs: 11,5 %",
+  "legend1": "Dati nav pieejami",
   "tooltip1": "",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
   "textNoteDescription": "Piezīme",
-  "textNote": "Eurostat ir Eiropas Savienības statistikas birojs, kas atbild par augstas kvalitātes Eiropas mēroga statistikas un rādītāju publicēšanu, kas ļauj salīdzināt valstis un reģionus.",
+  "textNote": "Eurostat ir Eiropas Savienības statistikas birojs, kas ir atbildīgs par augstas kvalitātes Eiropas mēroga statistikas un rādītāju publicēšanu, kas ļauj veikt salīdzinājumus starp valstīm un reģioniem.",
   "textDataAccess": "Piekļūstiet datiem",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/documents/2995521/15265521/2-17112022-AP-EN.pdf/b6953137-786e-ed9c-5ee2-6812c0f8f07f?t=166859925"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/documents/2995521/15265521/2-17112022-AP-EN.pdf/b6953137-786e-ed9c-5ee2-6812c0f8f07f?t=1668599256161"
 }

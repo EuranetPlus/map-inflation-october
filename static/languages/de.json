@@ -1,12 +1,12 @@
 {
   "heading": "Jährliche Inflationsraten in Europa im Oktober 2022",
-  "subheading": "Inflationsraten (%) gemessen am HVPI; EU-Durchschnitt: 11,5 %",
+  "subheading": "Inflationsraten (%) gemessen am HVPI; Durchschnitt der Europäischen Union: 11,5 %",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
-  "textNote": "Eurostat ist das statistische Amt der Europäischen Union und verantwortlich für die Veröffentlichung qualitativ hochwertiger europaweiter Statistiken und Indikatoren, die Vergleiche zwischen Ländern und Regionen ermöglichen.",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textNote": "Eurostat ist das statistische Amt der Europäischen Union und verantwortlich für die Veröffentlichung hochwertiger europaweiter Statistiken und Indikatoren, die Vergleiche zwischen Ländern und Regionen ermöglichen.",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://ec.europa.eu/eurostat/documents/2995521/15265521/2-17112022-AP-EN.pdf/b6953137-786e-ed9c-5ee2-6812c0f8f07f?t=1668599256161"
 }

@@ -1,12 +1,12 @@
 {
   "heading": "Årlige inflationsrater i Europa i oktober 2022",
-  "subheading": "Inflationsrater (%) målt ved HICP; EU-gennemsnit: 11,5 %",
-  "legend1": "Ingen tilgængelig data",
+  "subheading": "Inflationsrater (%) målt ved HICP; Gennemsnit for Den Europæiske Union: 11,5 %",
+  "legend1": "Ingen data tilgængelige",
   "tooltip1": "",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
-  "textNoteDescription": "Bemærk",
-  "textNote": "Eurostat er Den Europæiske Unions statistiske kontor, ansvarlig for at offentliggøre europæiske statistikker og indikatorer af høj kvalitet, der muliggør sammenligninger mellem lande og regioner.",
-  "textDataAccess": "Få adgang til data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/documents/2995521/15265521/2-17112022-AP-EN.pdf/b6953137-786e-ed9c-5ee2-6812c0f8f07f?t=166681692"
+  "textNoteDescription": "Note",
+  "textNote": "Eurostat er Den Europæiske Unions statistiske kontor, der er ansvarlig for at offentliggøre europæisk dækkende statistikker og indikatorer af høj kvalitet, der muliggør sammenligninger mellem lande og regioner.",
+  "textDataAccess": "Få adgang til dataene",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/documents/2995521/15265521/2-17112022-AP-DA.pdf/b6953137-786e-ed9c-5ee2-6812c0f8f07f?t=1668599256161"
 }
