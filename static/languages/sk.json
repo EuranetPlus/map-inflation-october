@@ -1,12 +1,12 @@
 {
-  "heading": "Ročná miera inflácie v Európe v novembri 2025",
-  "subheading": "Miera inflácie (%) meraná HICP; priemer Európskej únie: 2,4 %",
+  "heading": "Ročná miera inflácie v Európe v decembri 2025",
+  "subheading": "Miera inflácie (%) meraná HICP; priemer Európskej únie: 2,0 %",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Eurostat je štatistický úrad Európskej únie zodpovedný za publikovanie vysokokvalitných celoeurópskych štatistík a ukazovateľov, ktoré umožňujú porovnávanie medzi krajinami a regiónmi.",
+  "textNote": "Za Bulharsko, Českú republiku, Dánsko, Maďarsko, Poľsko, Rumunsko a Švédsko neboli poskytnuté žiadne údaje. Eurostat je štatistický úrad Európskej únie zodpovedný za publikovanie vysokokvalitných celoeurópskych štatistík a ukazovateľov, ktoré umožňujú porovnávanie medzi krajinami a regiónmi.",
   "textDataAccess": "Prístup k údajom",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/documents/2995521/15265521/2-17112022-AP-EN.pdf/b6953137-786e-ed9c-5ee2-6812c0f8f07f?t=1668599256161"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }

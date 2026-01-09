@@ -1,12 +1,12 @@
 {
-  "heading": "Tasas de inflación anual en Europa en noviembre de 2025",
-  "subheading": "Tasas de inflación (%) medidas por el IPCA; promedio de la Unión Europea: 2,4%",
+  "heading": "Tasas de inflación anual en Europa en diciembre de 2025",
+  "subheading": "Tasas de inflación (%) medidas por el IPCA; promedio de la Unión Europea: 2,0%",
   "legend1": "No hay datos disponibles",
   "tooltip1": "",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Eurostat es la oficina estadística de la Unión Europea, responsable de publicar estadísticas e indicadores europeos de alta calidad que permitan realizar comparaciones entre países y regiones.",
+  "textNote": "No se dispone de datos para Bulgaria, República Checa, Dinamarca, Hungría, Polonia, Rumanía ni Suecia. Eurostat es la oficina estadística de la Unión Europea, responsable de publicar estadísticas e indicadores europeos de alta calidad que permitan realizar comparaciones entre países y regiones.",
   "textDataAccess": "Acceder a los datos",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/documents/2995521/15265521/2-17112022-AP-EN.pdf/b6953137-786e-ed9c-5ee2-6812c0f8f07f?t=1668599256161"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=es"
 }

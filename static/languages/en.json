@@ -1,12 +1,12 @@
 {
-  "heading": "Annual inflation rates in Europe in November 2025",
-  "subheading": "Inflation rates (%) measured by the HICP; European Union average: 2.4%",
+  "heading": "Annual inflation rates in Europe in December 2025",
+  "subheading": "Inflation rates (%) measured by the HICP; European Union average: 2.0%",
   "legend1": "No data available",
   "tooltip1": "",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Eurostat is the statistical office of the European Union, responsible for publishing high-quality Europe-wide statistics and indicators that enable comparisons between countries and regions.",
+  "textNote": "No data given for Bulgaria, Czech Republic, Denmark, Hungary, Poland, Romania and Sweden. Eurostat is the statistical office of the European Union, responsible for publishing high-quality Europe-wide statistics and indicators that enable comparisons between countries and regions.",
   "textDataAccess": "Access the data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/documents/2995521/15265521/2-17112022-AP-EN.pdf/b6953137-786e-ed9c-5ee2-6812c0f8f07f?t=1668599256161"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "Éves inflációs ráták Európában 2025 novemberében",
-  "subheading": "A HICP-vel mért inflációs ráták (%); Európai Uniós átlag: 2,4%",
+  "heading": "Éves inflációs ráták Európában 2025 decemberében",
+  "subheading": "A HICP-vel mért inflációs ráták (%); Európai Uniós átlag: 2,0%",
   "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
   "textNoteDescription": "Jegyzet",
-  "textNote": "Az Eurostat az Európai Unió statisztikai hivatala, amely felelős az országok és régiók közötti összehasonlítást lehetővé tevő, kiváló minőségű, európai szintű statisztikák és mutatók közzétételéért.",
+  "textNote": "Bulgária, Csehország, Dánia, Magyarország, Lengyelország, Románia és Svédország esetében nem állnak rendelkezésre adatok. Az Eurostat az Európai Unió statisztikai hivatala, amely felelős az országok és régiók közötti összehasonlítást lehetővé tevő, kiváló minőségű, európai szintű statisztikák és mutatók közzétételéért.",
   "textDataAccess": "Hozzáférés az adatokhoz",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/documents/2995521/15265521/2-17112022-AP-EN.pdf/b6953137-786e-ed9c-5ee2-6812c0f8f07f?t=1668599256161"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "Taux d'inflation annuels en Europe en novembre 2025",
-  "subheading": "Taux d'inflation (%) mesurés par l'IPCH ; moyenne de l'Union européenne : 2,4 %",
+  "heading": "Taux d'inflation annuels en Europe en décembre 2025",
+  "subheading": "Taux d'inflation (%) mesurés par l'IPCH ; moyenne de l'Union européenne : 2,0 %",
   "legend1": "Aucune donnée disponible",
   "tooltip1": "",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Eurostat est l'office statistique de l'Union européenne, chargé de publier des statistiques et des indicateurs de haute qualité à l'échelle européenne permettant des comparaisons entre pays et régions.",
+  "textNote": "Aucune donnée n'est disponible pour la Bulgarie, la République tchèque, le Danemark, la Hongrie, la Pologne, la Roumanie et la Suède. Eurostat est l'office statistique de l'Union européenne, chargé de publier des statistiques et des indicateurs de haute qualité à l'échelle européenne permettant des comparaisons entre pays et régions.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/documents/2995521/15265521/2-17112022-AP-EN.pdf/b6953137-786e-ed9c-5ee2-6812c0f8f07f?t=1668599256161"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "Metiniai infliacijos rodikliai Europoje 2025 m. lapkričio mėn.",
-  "subheading": "Infliacijos rodikliai (%), apskaičiuoti pagal HICP; Europos Sąjungos vidurkis: 2,4 %",
+  "heading": "Metiniai infliacijos rodikliai Europoje 2025 m. gruodžio mėn.",
+  "subheading": "Infliacijos rodikliai (%), apskaičiuoti pagal HICP; Europos Sąjungos vidurkis: 2,0 %",
   "legend1": "Nėra duomenų",
   "tooltip1": "",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "„Eurostat“ yra Europos Sąjungos statistikos tarnyba, atsakinga už aukštos kokybės visos Europos statistikos ir rodiklių, leidžiančių palyginti šalis ir regionus, skelbimą.",
+  "textNote": "Nepateikta duomenų apie Bulgariją, Čekiją, Daniją, Vengriją, Lenkiją, Rumuniją ir Švediją. „Eurostat“ yra Europos Sąjungos statistikos tarnyba, atsakinga už aukštos kokybės visos Europos statistikos ir rodiklių, leidžiančių palyginti šalis ir regionus, skelbimą.",
   "textDataAccess": "Prieiga prie duomenų",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/documents/2995521/15265521/2-17112022-AP-EN.pdf/b6953137-786e-ed9c-5ee2-6812c0f8f07f?t=1668599256161"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }

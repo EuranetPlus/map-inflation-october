@@ -1,12 +1,12 @@
 {
-  "heading": "Taxas de inflação anual na Europa em novembro de 2025",
-  "subheading": "Taxas de inflação (%) medidas pelo IHPC; média da União Europeia: 2,4%",
+  "heading": "Taxas de inflação anual na Europa em dezembro de 2025",
+  "subheading": "Taxas de inflação (%) medidas pelo IHPC; média da União Europeia: 2,0%",
   "legend1": "Não há dados disponíveis.",
   "tooltip1": "",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Observação",
-  "textNote": "O Eurostat é o serviço de estatística da União Europeia, responsável pela publicação de estatísticas e indicadores de alta qualidade a nível europeu, que permitem comparações entre países e regiões.",
+  "textNote": "Não foram fornecidos dados para Bulgária, República Checa, Dinamarca, Hungria, Polónia, Roménia e Suécia. O Eurostat é o serviço de estatística da União Europeia, responsável pela publicação de estatísticas e indicadores de alta qualidade a nível europeu, que permitem comparações entre países e regiões.",
   "textDataAccess": "Acesse os dados",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/documents/2995521/15265521/2-17112022-AP-EN.pdf/b6953137-786e-ed9c-5ee2-6812c0f8f07f?t=1668599256161"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }

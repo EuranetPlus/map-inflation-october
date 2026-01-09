@@ -1,12 +1,12 @@
 {
-  "heading": "Årlige inflationsrater i Europa i november 2025",
-  "subheading": "Inflationsrater (%) målt ved HICP; Gennemsnit for Den Europæiske Union: 2,4 %",
+  "heading": "Årlige inflationsrater i Europa i december 2025",
+  "subheading": "Inflationsrater (%) målt ved HICP; Gennemsnit for Den Europæiske Union: 2,0 %",
   "legend1": "Ingen data tilgængelige",
   "tooltip1": "",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Eurostat er Den Europæiske Unions statistikkontor, der er ansvarlig for at offentliggøre europæisk dækkende statistikker og indikatorer af høj kvalitet, der muliggør sammenligninger mellem lande og regioner.",
+  "textNote": "Ingen data angivet for Bulgarien, Tjekkiet, Danmark, Ungarn, Polen, Rumænien og Sverige. Eurostat er Den Europæiske Unions statistiske kontor, der er ansvarlig for at offentliggøre europæisk dækkende statistikker og indikatorer af høj kvalitet, der muliggør sammenligninger mellem lande og regioner.",
   "textDataAccess": "Få adgang til dataene",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/documents/2995521/15265521/2-17112022-AP-DA.pdf/b6953137-786e-ed9c-5ee2-6812c0f8f07f?t=1668599256161"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }

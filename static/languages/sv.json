@@ -1,12 +1,12 @@
 {
-  "heading": "Årlig inflation i Europa i november 2025",
-  "subheading": "Inflationstakt (%) mätt med HIKP; genomsnitt för Europeiska unionen: 2,4 %",
+  "heading": "Årlig inflation i Europa i december 2025",
+  "subheading": "Inflationstakt (%) mätt med HIKP; genomsnitt för Europeiska unionen: 2,0 %",
   "legend1": "Inga data tillgängliga",
   "tooltip1": "",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat",
   "textNoteDescription": "Notera",
-  "textNote": "Eurostat är Europeiska unionens statistikkontor och ansvarar för att publicera högkvalitativ statistik och indikatorer för hela Europa som möjliggör jämförelser mellan länder och regioner.",
+  "textNote": "Inga uppgifter har lämnats för Bulgarien, Tjeckien, Danmark, Ungern, Polen, Rumänien och Sverige. Eurostat är Europeiska unionens statistikkontor och ansvarar för att publicera högkvalitativ statistik och indikatorer för hela Europa som möjliggör jämförelser mellan länder och regioner.",
   "textDataAccess": "Åtkomst till data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/documents/2995521/15265521/2-17112022-AP-EN.pdf/b6953137-786e-ed9c-5ee2-6812c0f8f07f?t=1668599256161"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }

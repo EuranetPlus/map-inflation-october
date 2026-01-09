@@ -1,12 +1,12 @@
 {
-  "heading": "Jaarlijkse inflatiecijfers in Europa in november 2025",
-  "subheading": "Inflatiepercentages (%) gemeten door de HICP; gemiddelde van de Europese Unie: 2,4%",
+  "heading": "Jaarlijkse inflatiecijfers in Europa in december 2025",
+  "subheading": "Inflatiepercentages (%) gemeten door de HICP; gemiddelde van de Europese Unie: 2,0%",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat",
   "textNoteDescription": "Opmerking",
-  "textNote": "Eurostat is het statistisch bureau van de Europese Unie en is verantwoordelijk voor de publicatie van hoogwaardige, Europees brede statistieken en indicatoren die vergelijkingen tussen landen en regio's mogelijk maken.",
+  "textNote": "Er zijn geen gegevens beschikbaar voor Bulgarije, Tsjechië, Denemarken, Hongarije, Polen, Roemenië en Zweden. Eurostat is het statistisch bureau van de Europese Unie en is verantwoordelijk voor de publicatie van hoogwaardige statistieken en indicatoren voor heel Europa, waarmee landen en regio's met elkaar vergeleken kunnen worden.",
   "textDataAccess": "Toegang tot de gegevens",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/documents/2995521/15265521/2-17112022-AP-EN.pdf/b6953137-786e-ed9c-5ee2-6812c0f8f07f?t=1668599256161"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }

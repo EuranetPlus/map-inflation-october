@@ -1,12 +1,12 @@
 {
-  "heading": "Gada inflācijas rādītāji Eiropā 2025. gada novembrī",
-  "subheading": "Inflācijas rādītāji (%), ko mēra ar SPCI; Eiropas Savienības vidējais rādītājs: 2,4 %",
+  "heading": "Gada inflācijas rādītāji Eiropā 2025. gada decembrī",
+  "subheading": "Inflācijas rādītāji (%), ko mēra ar SPCI; Eiropas Savienības vidējais rādītājs: 2,0 %",
   "legend1": "Dati nav pieejami",
   "tooltip1": "",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
   "textNoteDescription": "Piezīme",
-  "textNote": "Eurostat ir Eiropas Savienības statistikas birojs, kas ir atbildīgs par augstas kvalitātes Eiropas mēroga statistikas un rādītāju publicēšanu, kas ļauj veikt salīdzinājumus starp valstīm un reģioniem.",
+  "textNote": "Nav sniegti dati par Bulgāriju, Čehijas Republiku, Dāniju, Ungāriju, Poliju, Rumāniju un Zviedriju. Eurostat ir Eiropas Savienības statistikas birojs, kas atbild par augstas kvalitātes Eiropas mēroga statistikas un rādītāju publicēšanu, kas ļauj salīdzināt valstis un reģionus.",
   "textDataAccess": "Piekļūstiet datiem",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/documents/2995521/15265521/2-17112022-AP-EN.pdf/b6953137-786e-ed9c-5ee2-6812c0f8f07f?t=1668599256161"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }

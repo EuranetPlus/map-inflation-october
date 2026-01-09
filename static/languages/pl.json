@@ -1,12 +1,12 @@
 {
-  "heading": "Roczne stopy inflacji w Europie w listopadzie 2025 r.",
-  "subheading": "Stopy inflacji (%) mierzone wskaźnikiem HICP; średnia dla Unii Europejskiej: 2,4%",
+  "heading": "Roczne stopy inflacji w Europie w grudniu 2025 r.",
+  "subheading": "Stopy inflacji (%) mierzone wskaźnikiem HICP; średnia dla Unii Europejskiej: 2,0%",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
-  "textNote": "Eurostat to urząd statystyczny Unii Europejskiej odpowiedzialny za publikację wysokiej jakości statystyk i wskaźników obejmujących całą Europę, które umożliwiają porównywanie krajów i regionów.",
+  "textNote": "Brak danych dla Bułgarii, Czech, Danii, Węgier, Polski, Rumunii i Szwecji. Eurostat to urząd statystyczny Unii Europejskiej, odpowiedzialny za publikację wysokiej jakości statystyk i wskaźników dla całej Europy, które umożliwiają porównania między krajami i regionami.",
   "textDataAccess": "Dostęp do danych",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/documents/2995521/15265521/2-17112022-AP-EN.pdf/b6953137-786e-ed9c-5ee2-6812c0f8f07f?t=1668599256161"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "Godišnje stope inflacije u Europi u studenom 2025.",
-  "subheading": "Stope inflacije (%) mjerene HICP-om; prosjek Europske unije: 2,4%",
+  "heading": "Godišnje stope inflacije u Europi u prosincu 2025.",
+  "subheading": "Stope inflacije (%) mjerene HICP-om; prosjek Europske unije: 2,0%",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
-  "textNote": "Eurostat je statistički ured Europske unije, odgovoran za objavljivanje visokokvalitetnih statistika i pokazatelja na razini cijele Europe koji omogućuju usporedbe između zemalja i regija.",
+  "textNote": "Nema podataka za Bugarsku, Češku, Dansku, Mađarsku, Poljsku, Rumunjsku i Švedsku. Eurostat je statistički ured Europske unije, odgovoran za objavljivanje visokokvalitetnih statistika i pokazatelja na razini cijele Europe koji omogućuju usporedbe između zemalja i regija.",
   "textDataAccess": "Pristup podacima",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/documents/2995521/15265521/2-17112022-AP-EN.pdf/b6953137-786e-ed9c-5ee2-6812c0f8f07f?t=1668599256161"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }

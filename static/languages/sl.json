@@ -1,12 +1,12 @@
 {
-  "heading": "Letne stopnje inflacije v Evropi novembra 2025",
-  "subheading": "Stopnje inflacije (%), merjene s HICP; povprečje Evropske unije: 2,4 %",
+  "heading": "Letne stopnje inflacije v Evropi v decembru 2025",
+  "subheading": "Stopnje inflacije (%), merjene s HICP; povprečje Evropske unije: 2,0 %",
   "legend1": "Ni na voljo podatkov",
   "tooltip1": "",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat",
   "textNoteDescription": "Opomba",
-  "textNote": "Eurostat je statistični urad Evropske unije, odgovoren za objavljanje visokokakovostnih statističnih podatkov in kazalnikov za celotno Evropo, ki omogočajo primerjave med državami in regijami.",
+  "textNote": "Za Bolgarijo, Češko, Dansko, Madžarsko, Poljsko, Romunijo in Švedsko podatki niso navedeni. Eurostat je statistični urad Evropske unije, odgovoren za objavljanje visokokakovostnih statističnih podatkov in kazalnikov za celotno Evropo, ki omogočajo primerjave med državami in regijami.",
   "textDataAccess": "Dostop do podatkov",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/documents/2995521/15265521/2-17112022-AP-EN.pdf/b6953137-786e-ed9c-5ee2-6812c0f8f07f?t=1668599256161"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }
