@@ -1,12 +1,12 @@
 {
-  "heading": "X'kienet ir-rata annwali tal-inflazzjoni fl-Ewropa f'Diċembru 2025?",
-  "subheading": "Ir-rata tal-inflazzjoni annwali titkejjel bl-użu ta’ indiċijiet armonizzati tal-prezzijiet għall-konsumatur. Il-medja għall-Unjoni Ewropea kienet ta’ 2.0% f’Diċembru 2025.",
+  "heading": "Kemm żdiedu l-prezzijiet għall-konsumatur madwar l-UE?",
+  "subheading": "F'Ottubru 2026, il-prezzijiet għall-konsumatur madwar l-UE kienu 4.0% ogħla mis-sena ta' qabel. L-inflazzjoni annwali varjat minn 0.6% fl-Iżvezja sa 7.0% fir-Rumanija.",
   "legend1": "L-ebda dejta disponibbli",
   "tooltip1": "",
   "textSourceDescription": "Sors",
   "textSource": "L-Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Ma ngħatat l-ebda dejta għall-Bulgarija, ir-Repubblika Ċeka, id-Danimarka, l-Ungerija, il-Polonja, ir-Rumanija u l-Iżvezja. L-Eurostat huwa l-uffiċċju statistiku tal-Unjoni Ewropea, responsabbli għall-pubblikazzjoni ta’ statistika u indikaturi ta’ kwalità għolja madwar l-Ewropa kollha li jippermettu tqabbil bejn pajjiżi u reġjuni.",
+  "textNote": "Imkejjel mill-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP).",
   "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }

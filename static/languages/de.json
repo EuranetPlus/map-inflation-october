@@ -1,12 +1,12 @@
 {
-  "heading": "Wie hoch war die jährliche Inflationsrate in Europa im Dezember 2025?",
-  "subheading": "Die jährliche Inflationsrate wird anhand harmonisierter Verbraucherpreisindizes gemessen. Der Durchschnitt für die Europäische Union lag im Dezember 2025 bei 2,0 %.",
+  "heading": "Um wie viel sind die Verbraucherpreise in der EU gestiegen?",
+  "subheading": "Im Oktober 2026 lagen die Verbraucherpreise in der EU 4,0 % höher als im Vorjahr. Die jährliche Inflationsrate reichte von 0,6 % in Schweden bis 7,0 % in Rumänien.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
-  "textNote": "Für Bulgarien, Tschechien, Dänemark, Ungarn, Polen, Rumänien und Schweden liegen keine Daten vor. Eurostat ist das statistische Amt der Europäischen Union und verantwortlich für die Veröffentlichung hochwertiger europaweiter Statistiken und Indikatoren, die Vergleiche zwischen Ländern und Regionen ermöglichen.",
+  "textNote": "Gemessen am Harmonisierten Verbraucherpreisindex (HVPI).",
   "textDataAccess": "Greifen Sie auf die Daten zu.",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }

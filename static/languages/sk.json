@@ -1,12 +1,12 @@
 {
-  "heading": "Aká bola ročná miera inflácie v Európe v decembri 2025?",
-  "subheading": "Ročná miera inflácie sa meria pomocou harmonizovaných indexov spotrebiteľských cien. Priemer pre Európsku úniu bol v decembri 2025 2,0 %.",
+  "heading": "O koľko vzrástli spotrebiteľské ceny v celej EÚ?",
+  "subheading": "V októbri 2026 boli spotrebiteľské ceny v celej EÚ o 4,0 % vyššie ako v predchádzajúcom roku. Ročná inflácia sa pohybovala od 0,6 % vo Švédsku do 7,0 % v Rumunsku.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Za Bulharsko, Českú republiku, Dánsko, Maďarsko, Poľsko, Rumunsko a Švédsko neboli poskytnuté žiadne údaje. Eurostat je štatistický úrad Európskej únie zodpovedný za publikovanie vysokokvalitných celoeurópskych štatistík a ukazovateľov, ktoré umožňujú porovnávanie medzi krajinami a regiónmi.",
+  "textNote": "Merané harmonizovaným indexom spotrebiteľských cien (HICP).",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }

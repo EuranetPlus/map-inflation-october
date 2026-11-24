@@ -1,12 +1,12 @@
 {
-  "heading": "Quel était le taux d'inflation annuel en Europe en décembre 2025 ?",
-  "subheading": "Le taux d'inflation annuel est mesuré à l'aide d'indices harmonisés des prix à la consommation. La moyenne pour l'Union européenne était de 2,0 % en décembre 2025.",
+  "heading": "De combien les prix à la consommation ont-ils augmenté dans l'ensemble de l'UE ?",
+  "subheading": "En octobre 2026, les prix à la consommation dans l'ensemble de l'UE étaient supérieurs de 4,0 % à ceux de l'année précédente. L'inflation annuelle variait de 0,6 % en Suède à 7,0 % en Roumanie.",
   "legend1": "Aucune donnée disponible",
   "tooltip1": "",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Aucune donnée n'est disponible pour la Bulgarie, la République tchèque, le Danemark, la Hongrie, la Pologne, la Roumanie et la Suède. Eurostat est l'office statistique de l'Union européenne, chargé de publier des statistiques et des indicateurs de haute qualité à l'échelle européenne permettant des comparaisons entre pays et régions.",
+  "textNote": "Mesuré par l'indice harmonisé des prix à la consommation (IPCH).",
   "textDataAccess": "Accéder aux données",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }

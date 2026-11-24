@@ -1,12 +1,12 @@
 {
-  "heading": "Vad var den årliga inflationstakten i Europa i december 2025?",
-  "subheading": "Den årliga inflationstakten mäts med hjälp av harmoniserade konsumentprisindex. Genomsnittet för Europeiska unionen var 2,0 % i december 2025.",
+  "heading": "Hur mycket har konsumentpriserna stigit i EU?",
+  "subheading": "I oktober 2026 var konsumentpriserna i hela EU 4,0 % högre än ett år tidigare. Den årliga inflationen varierade från 0,6 % i Sverige till 7,0 % i Rumänien.",
   "legend1": "Inga data tillgängliga",
   "tooltip1": "",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat",
   "textNoteDescription": "Notera",
-  "textNote": "Inga uppgifter har lämnats för Bulgarien, Tjeckien, Danmark, Ungern, Polen, Rumänien och Sverige. Eurostat är Europeiska unionens statistikkontor och ansvarar för att publicera högkvalitativ statistik och indikatorer för hela Europa som möjliggör jämförelser mellan länder och regioner.",
+  "textNote": "Mätt med det harmoniserade konsumentprisindexet (HIKP).",
   "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }

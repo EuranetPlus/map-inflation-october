@@ -1,12 +1,12 @@
 {
-  "heading": "Care a fost rata anuală a inflației în Europa în decembrie 2025?",
-  "subheading": "Rata anuală a inflației este măsurată folosind indici armonizați ai prețurilor de consum. Media pentru Uniunea Europeană a fost de 2,0% în decembrie 2025.",
+  "heading": "Cât de mult au crescut prețurile de consum în UE?",
+  "subheading": "În octombrie 2026, prețurile de consum în întreaga UE erau cu 4,0% mai mari decât în anul precedent. Inflația anuală a variat de la 0,6% în Suedia la 7,0% în România.",
   "legend1": "Nu sunt disponibile date",
   "tooltip1": "",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Nu sunt furnizate date pentru Bulgaria, Republica Cehă, Danemarca, Ungaria, Polonia, România și Suedia. Eurostat este oficiul de statistică al Uniunii Europene, responsabil pentru publicarea de statistici și indicatori de înaltă calitate la nivel european, care permit comparații între țări și regiuni.",
+  "textNote": "Măsurat prin Indicele Armonizat al Prețurilor de Consum (IAPC).",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=ro"
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "Mekkora volt az éves inflációs ráta Európában 2025 decemberében?",
-  "subheading": "Az éves inflációs rátát harmonizált fogyasztói árindexekkel mérik. Az Európai Unió átlaga 2,0% volt 2025 decemberében.",
+  "heading": "Mennyivel emelkedtek a fogyasztói árak az EU-ban?",
+  "subheading": "2026 októberében az EU-szerte a fogyasztói árak 4,0%-kal magasabbak voltak, mint egy évvel korábban. Az éves infláció Svédországban 0,6%-tól Romániában 7,0%-ig terjedt.",
   "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
   "textNoteDescription": "Jegyzet",
-  "textNote": "Bulgária, Csehország, Dánia, Magyarország, Lengyelország, Románia és Svédország esetében nem állnak rendelkezésre adatok. Az Eurostat az Európai Unió statisztikai hivatala, amely felelős az országok és régiók közötti összehasonlítást lehetővé tevő, kiváló minőségű, európai szintű statisztikák és mutatók közzétételéért.",
+  "textNote": "A harmonizált fogyasztói árindex (HICP) alapján mérve.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }

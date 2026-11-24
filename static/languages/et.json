@@ -1,12 +1,12 @@
 {
-  "heading": "Milline oli aastane inflatsioonimäär Euroopas 2025. aasta detsembris?",
-  "subheading": "Aastast inflatsioonimäära mõõdetakse tarbijahinna harmoneeritud indeksite abil. Euroopa Liidu keskmine oli 2025. aasta detsembris 2,0%.",
+  "heading": "Kui palju on tarbijahinnad EL-is tõusnud?",
+  "subheading": "2026. aasta oktoobris olid tarbijahinnad kogu ELis 4,0% kõrgemad kui aasta varem. Aastane inflatsioon ulatus 0,6%-st Rootsis 7,0%-ni Rumeenias.",
   "legend1": "Andmed pole saadaval",
   "tooltip1": "",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
   "textNoteDescription": "Märkus",
-  "textNote": "Bulgaaria, Tšehhi Vabariigi, Taani, Ungari, Poola, Rumeenia ja Rootsi kohta andmeid ei ole esitatud. Eurostat on Euroopa Liidu statistikaamet, mis avaldab kvaliteetset üleeuroopalist statistikat ja näitajaid, mis võimaldavad riikide ja piirkondade võrdlusi.",
+  "textNote": "Mõõdetakse tarbijahinna harmoneeritud indeksiga (HICP).",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }

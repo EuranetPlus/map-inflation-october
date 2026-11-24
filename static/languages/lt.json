@@ -1,12 +1,12 @@
 {
-  "heading": "Koks buvo metinis infliacijos lygis Europoje 2025 m. gruodžio mėn.?",
-  "subheading": "Metinis infliacijos lygis matuojamas naudojant suderintus vartotojų kainų indeksus. Europos Sąjungos vidurkis 2025 m. gruodžio mėn. buvo 2,0 %.",
+  "heading": "Kiek išaugo vartotojų kainos visoje ES?",
+  "subheading": "2026 m. spalio mėn. vartotojų kainos visoje ES buvo 4,0 % didesnės nei prieš metus. Metinė infliacija svyravo nuo 0,6 % Švedijoje iki 7,0 % Rumunijoje.",
   "legend1": "Nėra duomenų",
   "tooltip1": "",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "Nepateikta duomenų apie Bulgariją, Čekiją, Daniją, Vengriją, Lenkiją, Rumuniją ir Švediją. „Eurostat“ yra Europos Sąjungos statistikos tarnyba, atsakinga už aukštos kokybės visos Europos statistikos ir rodiklių, leidžiančių palyginti šalis ir regionus, skelbimą.",
+  "textNote": "Matuojama pagal suderintą vartotojų kainų indeksą (SVKI).",
   "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }

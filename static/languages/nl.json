@@ -1,12 +1,12 @@
 {
-  "heading": "Wat was het jaarlijkse inflatiepercentage in Europa in december 2025?",
-  "subheading": "De jaarlijkse inflatie wordt gemeten aan de hand van geharmoniseerde indexen van consumentenprijzen. Het gemiddelde voor de Europese Unie bedroeg 2,0% in december 2025.",
+  "heading": "Met hoeveel zijn de consumentenprijzen in de EU gestegen?",
+  "subheading": "In oktober 2026 lagen de consumentenprijzen in de EU 4,0% hoger dan een jaar eerder. De jaarlijkse inflatie varieerde van 0,6% in Zweden tot 7,0% in Roemenië.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat",
   "textNoteDescription": "Opmerking",
-  "textNote": "Er zijn geen gegevens beschikbaar voor Bulgarije, Tsjechië, Denemarken, Hongarije, Polen, Roemenië en Zweden. Eurostat is het statistisch bureau van de Europese Unie en is verantwoordelijk voor de publicatie van hoogwaardige statistieken en indicatoren voor heel Europa, waarmee landen en regio's met elkaar vergeleken kunnen worden.",
+  "textNote": "Gemeten aan de hand van de geharmoniseerde index van consumentenprijzen (HICP).",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }

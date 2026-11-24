@@ -1,12 +1,12 @@
 {
-  "heading": "Hvad var den årlige inflationsrate i Europa i december 2025?",
-  "subheading": "Den årlige inflationsrate måles ved hjælp af harmoniserede forbrugerprisindekser. Gennemsnittet for Den Europæiske Union var 2,0 % i december 2025.",
+  "heading": "Hvor meget er forbrugerpriserne steget i EU?",
+  "subheading": "I oktober 2026 var forbrugerpriserne i hele EU 4,0 % højere end året før. Den årlige inflation varierede fra 0,6 % i Sverige til 7,0 % i Rumænien.",
   "legend1": "Ingen data tilgængelige",
   "tooltip1": "",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Ingen data angivet for Bulgarien, Tjekkiet, Danmark, Ungarn, Polen, Rumænien og Sverige. Eurostat er Den Europæiske Unions statistiske kontor, der er ansvarlig for at offentliggøre europæisk dækkende statistikker og indikatorer af høj kvalitet, der muliggør sammenligninger mellem lande og regioner.",
+  "textNote": "Målt ved det harmoniserede forbrugerprisindeks (HICP).",
   "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "Jaka była roczna stopa inflacji w Europie w grudniu 2025 r.?",
-  "subheading": "Roczną stopę inflacji mierzy się za pomocą zharmonizowanych wskaźników cen konsumpcyjnych. Średnia dla Unii Europejskiej wyniosła 2,0% w grudniu 2025 r.",
+  "heading": "O ile wzrosły ceny konsumpcyjne w UE?",
+  "subheading": "W październiku 2026 roku ceny konsumpcyjne w całej UE były o 4,0% wyższe niż rok wcześniej. Roczna inflacja wahała się od 0,6% w Szwecji do 7,0% w Rumunii.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
-  "textNote": "Brak danych dla Bułgarii, Czech, Danii, Węgier, Polski, Rumunii i Szwecji. Eurostat to urząd statystyczny Unii Europejskiej, odpowiedzialny za publikację wysokiej jakości statystyk i wskaźników dla całej Europy, które umożliwiają porównania między krajami i regionami.",
+  "textNote": "Mierzone za pomocą zharmonizowanego wskaźnika cen konsumpcyjnych (HICP).",
   "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }

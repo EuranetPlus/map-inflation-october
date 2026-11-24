@@ -1,12 +1,12 @@
 {
-  "heading": "Mikä oli vuotuinen inflaatio Euroopassa joulukuussa 2025?",
-  "subheading": "Vuotuinen inflaatioaste mitataan yhdenmukaistetuilla kuluttajahintaindekseillä. Euroopan unionin keskiarvo oli 2,0 % joulukuussa 2025.",
+  "heading": "Kuinka paljon kuluttajahinnat ovat nousseet EU:ssa?",
+  "subheading": "Lokakuussa 2026 kuluttajahinnat olivat EU:ssa 4,0 % korkeammat kuin vuotta aiemmin. Vuotuinen inflaatio vaihteli Ruotsin 0,6 prosentista Romanian 7,0 prosenttiin.",
   "legend1": "Ei tietoja saatavilla",
   "tooltip1": "",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
   "textNoteDescription": "Huomautus",
-  "textNote": "Bulgariasta, Tšekistä, Tanskasta, Unkarista, Puolasta, Romaniasta ja Ruotsista ei ole annettu tietoja. Eurostat on Euroopan unionin tilastovirasto, joka julkaisee korkealaatuisia Euroopan laajuisia tilastoja ja indikaattoreita, jotka mahdollistavat maiden ja alueiden välisen vertailun.",
+  "textNote": "Mitataan yhdenmukaistetulla kuluttajahintaindeksillä (YKHI).",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }

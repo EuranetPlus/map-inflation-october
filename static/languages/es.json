@@ -1,12 +1,12 @@
 {
-  "heading": "¿Cuál fue la tasa de inflación anual en Europa en diciembre de 2025?",
-  "subheading": "La tasa de inflación anual se mide utilizando índices armonizados de precios al consumidor. El promedio para la Unión Europea fue del 2,0 % en diciembre de 2025.",
+  "heading": "¿Cuánto han subido los precios al consumidor en la UE?",
+  "subheading": "En octubre de 2026, los precios al consumidor en la UE fueron un 4,0 % superiores a los del año anterior. La inflación anual osciló entre el 0,6 % en Suecia y el 7,0 % en Rumanía.",
   "legend1": "No hay datos disponibles",
   "tooltip1": "",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "No se proporcionan datos para Bulgaria, República Checa, Dinamarca, Hungría, Polonia, Rumanía y Suecia. Eurostat es la oficina estadística de la Unión Europea, responsable de publicar estadísticas e indicadores de alta calidad a nivel europeo que permiten realizar comparaciones entre países y regiones.",
+  "textNote": "Medido por el Índice Armonizado de Precios al Consumidor (IAPC).",
   "textDataAccess": "Acceder a los datos",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }

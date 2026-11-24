@@ -1,12 +1,12 @@
 {
-  "heading": "Kolika je bila godišnja stopa inflacije u Europi u prosincu 2025.?",
-  "subheading": "Godišnja stopa inflacije mjeri se pomoću harmoniziranih indeksa potrošačkih cijena. Prosjek za Europsku uniju u prosincu 2025. iznosio je 2,0%.",
+  "heading": "Koliko su porasle potrošačke cijene diljem EU?",
+  "subheading": "U listopadu 2026. potrošačke cijene u cijeloj EU bile su 4,0% više nego godinu ranije. Godišnja inflacija kretala se od 0,6% u Švedskoj do 7,0% u Rumunjskoj.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
-  "textNote": "Nema podataka za Bugarsku, Češku, Dansku, Mađarsku, Poljsku, Rumunjsku i Švedsku. Eurostat je statistički ured Europske unije, odgovoran za objavljivanje visokokvalitetnih statistika i pokazatelja na razini cijele Europe koji omogućuju usporedbe između zemalja i regija.",
+  "textNote": "Mjereno Harmoniziranim indeksom potrošačkih cijena (HICP).",
   "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }

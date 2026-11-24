@@ -1,12 +1,12 @@
 {
-  "heading": "Kakšna je bila letna stopnja inflacije v Evropi decembra 2025?",
-  "subheading": "Letna stopnja inflacije se meri z uporabo harmoniziranih indeksov cen življenjskih potrebščin. Povprečje za Evropsko unijo je bilo decembra 2025 2,0 %.",
+  "heading": "Za koliko so se zvišale cene življenjskih potrebščin v EU?",
+  "subheading": "Oktobra 2026 so bile cene življenjskih potrebščin v EU za 4,0 % višje kot leto prej. Letna inflacija se je gibala od 0,6 % na Švedskem do 7,0 % v Romuniji.",
   "legend1": "Ni na voljo podatkov",
   "tooltip1": "",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat",
   "textNoteDescription": "Opomba",
-  "textNote": "Za Bolgarijo, Češko, Dansko, Madžarsko, Poljsko, Romunijo in Švedsko podatki niso navedeni. Eurostat je statistični urad Evropske unije, odgovoren za objavljanje visokokakovostnih statističnih podatkov in kazalnikov za celotno Evropo, ki omogočajo primerjave med državami in regijami.",
+  "textNote": "Merjeno s harmoniziranim indeksom cen življenjskih potrebščin (HICP).",
   "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }
