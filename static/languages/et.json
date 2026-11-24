@@ -6,7 +6,7 @@
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
   "textNoteDescription": "Märkus",
-  "textNote": "Bulgaaria, Tšehhi Vabariigi, Taani, Ungari, Poola, Rumeenia ja Rootsi kohta andmeid ei ole esitatud. Eurostat on Euroopa Liidu statistikaamet, mis avaldab kvaliteetset Euroopa-ülest statistikat ja näitajaid, mis võimaldavad riikide ja piirkondade võrdlusi.",
+  "textNote": "Bulgaaria, Tšehhi Vabariigi, Taani, Ungari, Poola, Rumeenia ja Rootsi kohta andmeid ei ole esitatud. Eurostat on Euroopa Liidu statistikaamet, mis avaldab kvaliteetset üleeuroopalist statistikat ja näitajaid, mis võimaldavad riikide ja piirkondade võrdlusi.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
 }
