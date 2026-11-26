@@ -8,5 +8,10 @@
   "textNoteDescription": "Nota",
   "textNote": "Medido por el Índice Armonizado de Precios al Consumidor (IAPC).",
   "textDataAccess": "Acceder a los datos",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en",
+  "title": "¿Cuánto han subido los precios al consumidor en toda la UE?",
+  "subtitle": "En octubre de 2026, los precios al consumidor en la UE fueron un 4,0 % superiores a los del año anterior. La tasa de inflación anual osciló entre el 0,6 % en Suecia y el 7 % en Rumanía.",
+  "linkDataAccessDescription": "Acceder a los datos",
+  "customUnitLabel": "",
+  "tooltipExtraInfoLabel": "haga clic aquí"
 }

@@ -8,5 +8,10 @@
   "textNoteDescription": "Märkus",
   "textNote": "Mõõdetakse tarbijahinna harmoneeritud indeksiga (HICP).",
   "textDataAccess": "Juurdepääs andmetele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en",
+  "title": "Kui palju on tarbijahinnad EL-is tõusnud?",
+  "subtitle": "2026. aasta oktoobris olid tarbijahinnad kogu ELis 4,0% kõrgemad kui aasta varem. Aastane inflatsioonimäär ulatus 0,6%-st Rootsis 7%-ni Rumeenias.",
+  "linkDataAccessDescription": "Juurdepääs andmetele",
+  "customUnitLabel": "",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }

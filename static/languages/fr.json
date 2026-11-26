@@ -8,5 +8,10 @@
   "textNoteDescription": "Note",
   "textNote": "Mesuré par l'indice harmonisé des prix à la consommation (IPCH).",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en",
+  "title": "De combien les prix à la consommation ont-ils augmenté dans l'ensemble de l'UE ?",
+  "subtitle": "En octobre 2026, les prix à la consommation dans l'ensemble de l'UE étaient supérieurs de 4 % à ceux de l'année précédente. Le taux d'inflation annuel variait de 0,6 % en Suède à 7 % en Roumanie.",
+  "linkDataAccessDescription": "Accéder aux données",
+  "customUnitLabel": "",
+  "tooltipExtraInfoLabel": "Cliquez ici"
 }

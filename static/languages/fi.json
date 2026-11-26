@@ -8,5 +8,10 @@
   "textNoteDescription": "Huomautus",
   "textNote": "Mitataan yhdenmukaistetulla kuluttajahintaindeksillä (YKHI).",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en",
+  "title": "Kuinka paljon kuluttajahinnat ovat nousseet EU:ssa?",
+  "subtitle": "Lokakuussa 2026 kuluttajahinnat olivat EU:ssa 4,0 % korkeammat kuin vuotta aiemmin. Vuotuinen inflaatiovauhti vaihteli Ruotsin 0,6 prosentista Romanian 7 prosenttiin.",
+  "linkDataAccessDescription": "Käytä tietoja",
+  "customUnitLabel": "",
+  "tooltipExtraInfoLabel": "Klikkaa tästä"
 }

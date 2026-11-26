@@ -8,5 +8,10 @@
   "textNoteDescription": "Note",
   "textNote": "Målt ved det harmoniserede forbrugerprisindeks (HICP).",
   "textDataAccess": "Få adgang til dataene",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en",
+  "title": "Hvor meget er forbrugerpriserne steget i EU?",
+  "subtitle": "I oktober 2026 var forbrugerpriserne i hele EU 4,0 % højere end året før. Den årlige inflation varierede fra 0,6 % i Sverige til 7 % i Rumænien.",
+  "linkDataAccessDescription": "Få adgang til dataene",
+  "customUnitLabel": "",
+  "tooltipExtraInfoLabel": "Klik her"
 }

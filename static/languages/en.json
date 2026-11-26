@@ -8,5 +8,10 @@
   "textNoteDescription": "Note",
   "textNote": "Measured by the Harmonised Index of Consumer Prices (HICP).",
   "textDataAccess": "Access the data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en",
+  "title": "How much have consumer prices gone up across the EU?",
+  "subtitle": "In October 2026, consumer prices across the EU were 4.0% higher than the year before. The annual inflation rate ranged from 0.6% in Sweden to 7% in Romania.",
+  "linkDataAccessDescription": "Access the data",
+  "customUnitLabel": "",
+  "tooltipExtraInfoLabel": "Click here"
 }

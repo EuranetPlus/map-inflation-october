@@ -8,5 +8,10 @@
   "textNoteDescription": "Pastaba",
   "textNote": "Matuojama pagal suderintą vartotojų kainų indeksą (SVKI).",
   "textDataAccess": "Prieiga prie duomenų",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en",
+  "title": "Kiek išaugo vartotojų kainos visoje ES?",
+  "subtitle": "2026 m. spalio mėn. vartotojų kainos visoje ES buvo 4,0 % didesnės nei prieš metus. Metinis infliacijos lygis svyravo nuo 0,6 % Švedijoje iki 7 % Rumunijoje.",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
+  "customUnitLabel": "",
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }

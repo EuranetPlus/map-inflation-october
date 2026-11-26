@@ -8,5 +8,10 @@
   "textNoteDescription": "Nóta",
   "textNote": "Tomhaiste ag an Innéacs Comhchuibhithe Praghsanna Tomhaltóirí (HICP).",
   "textDataAccess": "Rochtain ar na sonraí",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en",
+  "title": "Cé mhéad atá praghsanna tomhaltóirí tar éis ardú ar fud an AE?",
+  "subtitle": "I mí Dheireadh Fómhair 2026, bhí praghsanna tomhaltóirí ar fud an AE 4.0% níos airde ná an bhliain roimhe sin. Bhí an ráta boilscithe bliantúil idir 0.6% sa tSualainn agus 7% sa Rómáin.",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
+  "customUnitLabel": "",
+  "tooltipExtraInfoLabel": "Cliceáil anseo"
 }

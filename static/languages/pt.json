@@ -8,5 +8,10 @@
   "textNoteDescription": "Observação",
   "textNote": "Medido pelo Índice Harmonizado de Preços ao Consumidor (IHPC).",
   "textDataAccess": "Acesse os dados",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en",
+  "title": "Em quanto aumentaram os preços ao consumidor em toda a UE?",
+  "subtitle": "Em outubro de 2026, os preços ao consumidor em toda a UE estavam 4,0% mais altos do que no ano anterior. A taxa de inflação anual variou de 0,6% na Suécia a 7% na Romênia.",
+  "linkDataAccessDescription": "Acesse os dados",
+  "customUnitLabel": "",
+  "tooltipExtraInfoLabel": "Clique aqui"
 }

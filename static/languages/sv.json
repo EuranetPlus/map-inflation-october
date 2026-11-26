@@ -8,5 +8,10 @@
   "textNoteDescription": "Notera",
   "textNote": "Mätt med det harmoniserade konsumentprisindexet (HIKP).",
   "textDataAccess": "Åtkomst till data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en",
+  "title": "Hur mycket har konsumentpriserna ökat i EU?",
+  "subtitle": "I oktober 2026 var konsumentpriserna i hela EU 4,0 % högre än året innan. Den årliga inflationstakten varierade från 0,6 % i Sverige till 7 % i Rumänien.",
+  "linkDataAccessDescription": "Åtkomst till data",
+  "customUnitLabel": "",
+  "tooltipExtraInfoLabel": "Klicka här"
 }

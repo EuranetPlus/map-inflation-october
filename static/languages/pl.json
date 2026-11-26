@@ -8,5 +8,10 @@
   "textNoteDescription": "Notatka",
   "textNote": "Mierzone za pomocą zharmonizowanego wskaźnika cen konsumpcyjnych (HICP).",
   "textDataAccess": "Dostęp do danych",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en",
+  "title": "O ile wzrosły ceny konsumpcyjne w UE?",
+  "subtitle": "W październiku 2026 roku ceny konsumpcyjne w całej UE były o 4,0% wyższe niż rok wcześniej. Roczna stopa inflacji wahała się od 0,6% w Szwecji do 7% w Rumunii.",
+  "linkDataAccessDescription": "Dostęp do danych",
+  "customUnitLabel": "",
+  "tooltipExtraInfoLabel": "Kliknij tutaj"
 }

@@ -8,5 +8,10 @@
   "textNoteDescription": "Jegyzet",
   "textNote": "A harmonizált fogyasztói árindex (HICP) alapján mérve.",
   "textDataAccess": "Hozzáférés az adatokhoz",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en",
+  "title": "Mennyivel emelkedtek a fogyasztói árak az EU-ban?",
+  "subtitle": "2026 októberében az EU-szerte a fogyasztói árak 4,0%-kal magasabbak voltak, mint egy évvel korábban. Az éves inflációs ráta Svédországban 0,6%-tól Romániában 7%-ig terjedt.",
+  "linkDataAccessDescription": "Hozzáférés az adatokhoz",
+  "customUnitLabel": "",
+  "tooltipExtraInfoLabel": "Kattintson ide"
 }

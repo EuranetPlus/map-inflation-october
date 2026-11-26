@@ -8,5 +8,10 @@
   "textNoteDescription": "Opmerking",
   "textNote": "Gemeten aan de hand van de geharmoniseerde index van consumentenprijzen (HICP).",
   "textDataAccess": "Toegang tot de gegevens",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en",
+  "title": "Met hoeveel zijn de consumentenprijzen in de EU gestegen?",
+  "subtitle": "In oktober 2026 lagen de consumentenprijzen in de EU 4,0% hoger dan een jaar eerder. De jaarlijkse inflatie varieerde van 0,6% in Zweden tot 7% in Roemenië.",
+  "linkDataAccessDescription": "Toegang tot de gegevens",
+  "customUnitLabel": "",
+  "tooltipExtraInfoLabel": "Klik hier"
 }

@@ -8,5 +8,10 @@
   "textNoteDescription": "Nota",
   "textNote": "Misurato tramite l'Indice Armonizzato dei Prezzi al Consumo (IPCA).",
   "textDataAccess": "Accedere ai dati",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en",
+  "title": "Di quanto sono aumentati i prezzi al consumo in tutta l'UE?",
+  "subtitle": "Nell'ottobre 2026, i prezzi al consumo in tutta l'UE erano superiori del 4,0% rispetto all'anno precedente. Il tasso di inflazione annuale variava dallo 0,6% in Svezia al 7% in Romania.",
+  "linkDataAccessDescription": "Accedere ai dati",
+  "customUnitLabel": "",
+  "tooltipExtraInfoLabel": "clicca qui"
 }

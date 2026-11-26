@@ -8,5 +8,10 @@
   "textNoteDescription": "Poznámka",
   "textNote": "Merané harmonizovaným indexom spotrebiteľských cien (HICP).",
   "textDataAccess": "Prístup k údajom",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en",
+  "title": "O koľko vzrástli spotrebiteľské ceny v celej EÚ?",
+  "subtitle": "V októbri 2026 boli spotrebiteľské ceny v celej EÚ o 4,0 % vyššie ako v predchádzajúcom roku. Ročná miera inflácie sa pohybovala od 0,6 % vo Švédsku do 7 % v Rumunsku.",
+  "linkDataAccessDescription": "Prístup k údajom",
+  "customUnitLabel": "",
+  "tooltipExtraInfoLabel": "Kliknite sem"
 }

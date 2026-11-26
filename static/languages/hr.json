@@ -8,5 +8,10 @@
   "textNoteDescription": "Bilješka",
   "textNote": "Mjereno Harmoniziranim indeksom potrošačkih cijena (HICP).",
   "textDataAccess": "Pristup podacima",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en",
+  "title": "Koliko su porasle potrošačke cijene u cijeloj EU?",
+  "subtitle": "U listopadu 2026. potrošačke cijene u cijeloj EU bile su 4,0% više nego godinu prije. Godišnja stopa inflacije kretala se od 0,6% u Švedskoj do 7% u Rumunjskoj.",
+  "linkDataAccessDescription": "Pristup podacima",
+  "customUnitLabel": "",
+  "tooltipExtraInfoLabel": "Kliknite ovdje"
 }

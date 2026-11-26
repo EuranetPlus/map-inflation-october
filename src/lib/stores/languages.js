@@ -1,2331 +1,2354 @@
 export const languageNameTranslations = {
-	"bg": [
+	bg: [
 		{
-			"value": "bg",
-			"label": "Български"
+			value: 'bg',
+			label: 'Български'
 		},
 		{
-			"value": "hr",
-			"label": "Хърватски"
+			value: 'hr',
+			label: 'Хърватски'
 		},
 		{
-			"value": "cs",
-			"label": "Чешки"
+			value: 'cs',
+			label: 'Чешки'
 		},
 		{
-			"value": "da",
-			"label": "Датски"
+			value: 'da',
+			label: 'Датски'
 		},
 		{
-			"value": "nl",
-			"label": "Холандски"
+			value: 'nl',
+			label: 'Холандски'
 		},
 		{
-			"value": "en",
-			"label": "Английски"
+			value: 'en',
+			label: 'Английски'
 		},
 		{
-			"value": "et",
-			"label": "Естонски"
+			value: 'et',
+			label: 'Естонски'
 		},
 		{
-			"value": "fi",
-			"label": "Финландски"
+			value: 'fi',
+			label: 'Финландски'
 		},
 		{
-			"value": "fr",
-			"label": "Френски"
+			value: 'fr',
+			label: 'Френски'
 		},
 		{
-			"value": "de",
-			"label": "Немски"
+			value: 'de',
+			label: 'Немски'
 		},
 		{
-			"value": "el",
-			"label": "Гръцки"
+			value: 'el',
+			label: 'Гръцки'
 		},
 		{
-			"value": "hu",
-			"label": "Унгарски"
+			value: 'hu',
+			label: 'Унгарски'
 		},
 		{
-			"value": "ga",
-			"label": "Ирландски"
+			value: 'ga',
+			label: 'Ирландски'
 		},
 		{
-			"value": "it",
-			"label": "Италиански"
+			value: 'it',
+			label: 'Италиански'
 		},
 		{
-			"value": "lv",
-			"label": "Латвийски"
+			value: 'lv',
+			label: 'Латвийски'
 		},
 		{
-			"value": "lt",
-			"label": "Литовски"
+			value: 'lt',
+			label: 'Литовски'
 		},
 		{
-			"value": "mt",
-			"label": "Малтийски"
+			value: 'mt',
+			label: 'Малтийски'
 		},
 		{
-			"value": "pl",
-			"label": "Полски"
+			value: 'pl',
+			label: 'Полски'
 		},
 		{
-			"value": "pt",
-			"label": "Португалски"
+			value: 'pt',
+			label: 'Португалски'
 		},
 		{
-			"value": "ro",
-			"label": "Румънски"
+			value: 'ro',
+			label: 'Румънски'
 		},
 		{
-			"value": "sk",
-			"label": "Словашки"
+			value: 'sk',
+			label: 'Словашки'
 		},
 		{
-			"value": "sl",
-			"label": "Словенски"
+			value: 'sl',
+			label: 'Словенски'
 		},
 		{
-			"value": "es",
-			"label": "Испански"
+			value: 'es',
+			label: 'Испански'
 		},
 		{
-			"value": "sv",
-			"label": "Шведски"
+			value: 'sv',
+			label: 'Шведски'
 		}
 	],
-	"cs": [{
-			"value": "bg",
-			"label": "Bulharský"
+	cs: [
+		{
+			value: 'bg',
+			label: 'Bulharský'
 		},
 		{
-			"value": "hr",
-			"label": "Chorvatský"
+			value: 'hr',
+			label: 'Chorvatský'
 		},
 		{
-			"value": "cs",
-			"label": "Čeština"
+			value: 'cs',
+			label: 'Čeština'
 		},
 		{
-			"value": "da",
-			"label": "Dánština"
+			value: 'da',
+			label: 'Dánština'
 		},
 		{
-			"value": "nl",
-			"label": "Holandský"
+			value: 'nl',
+			label: 'Holandský'
 		},
 		{
-			"value": "en",
-			"label": "Angličtina"
+			value: 'en',
+			label: 'Angličtina'
 		},
 		{
-			"value": "et",
-			"label": "Estonština"
+			value: 'et',
+			label: 'Estonština'
 		},
 		{
-			"value": "fi",
-			"label": "Finština"
+			value: 'fi',
+			label: 'Finština'
 		},
 		{
-			"value": "fr",
-			"label": "Francouzština"
+			value: 'fr',
+			label: 'Francouzština'
 		},
 		{
-			"value": "de",
-			"label": "Němec"
+			value: 'de',
+			label: 'Němec'
 		},
 		{
-			"value": "el",
-			"label": "Řecký"
+			value: 'el',
+			label: 'Řecký'
 		},
 		{
-			"value": "hu",
-			"label": "Maďarský"
+			value: 'hu',
+			label: 'Maďarský'
 		},
 		{
-			"value": "ga",
-			"label": "Irština"
+			value: 'ga',
+			label: 'Irština'
 		},
 		{
-			"value": "it",
-			"label": "Italština"
+			value: 'it',
+			label: 'Italština'
 		},
 		{
-			"value": "lv",
-			"label": "Lotyšský"
+			value: 'lv',
+			label: 'Lotyšský'
 		},
 		{
-			"value": "lt",
-			"label": "Litevský"
+			value: 'lt',
+			label: 'Litevský'
 		},
 		{
-			"value": "mt",
-			"label": "Maltština"
+			value: 'mt',
+			label: 'Maltština'
 		},
 		{
-			"value": "pl",
-			"label": "Polština"
+			value: 'pl',
+			label: 'Polština'
 		},
 		{
-			"value": "pt",
-			"label": "Portugalština"
+			value: 'pt',
+			label: 'Portugalština'
 		},
 		{
-			"value": "ro",
-			"label": "Rumunština"
+			value: 'ro',
+			label: 'Rumunština'
 		},
 		{
-			"value": "sk",
-			"label": "Slovák"
+			value: 'sk',
+			label: 'Slovák'
 		},
 		{
-			"value": "sl",
-			"label": "Slovinský"
+			value: 'sl',
+			label: 'Slovinský'
 		},
 		{
-			"value": "es",
-			"label": "Španělština"
+			value: 'es',
+			label: 'Španělština'
 		},
 		{
-			"value": "sv",
-			"label": "Švédský"
+			value: 'sv',
+			label: 'Švédský'
 		}
 	],
-	"da": [{
-			"value": "bg",
-			"label": "Bulgarsk"
+	da: [
+		{
+			value: 'bg',
+			label: 'Bulgarsk'
 		},
 		{
-			"value": "hr",
-			"label": "Kroatisk"
+			value: 'hr',
+			label: 'Kroatisk'
 		},
 		{
-			"value": "cs",
-			"label": "Tjekkisk"
+			value: 'cs',
+			label: 'Tjekkisk'
 		},
 		{
-			"value": "da",
-			"label": "Dansk"
+			value: 'da',
+			label: 'Dansk'
 		},
 		{
-			"value": "nl",
-			"label": "Hollandske"
+			value: 'nl',
+			label: 'Hollandske'
 		},
 		{
-			"value": "en",
-			"label": "Engelsk"
+			value: 'en',
+			label: 'Engelsk'
 		},
 		{
-			"value": "et",
-			"label": "Estisk"
+			value: 'et',
+			label: 'Estisk'
 		},
 		{
-			"value": "fi",
-			"label": "Finsk"
+			value: 'fi',
+			label: 'Finsk'
 		},
 		{
-			"value": "fr",
-			"label": "Fransk"
+			value: 'fr',
+			label: 'Fransk'
 		},
 		{
-			"value": "de",
-			"label": "Tysk"
+			value: 'de',
+			label: 'Tysk'
 		},
 		{
-			"value": "el",
-			"label": "Græsk"
+			value: 'el',
+			label: 'Græsk'
 		},
 		{
-			"value": "hu",
-			"label": "Ungarsk"
+			value: 'hu',
+			label: 'Ungarsk'
 		},
 		{
-			"value": "ga",
-			"label": "Irsk"
+			value: 'ga',
+			label: 'Irsk'
 		},
 		{
-			"value": "it",
-			"label": "Italiensk"
+			value: 'it',
+			label: 'Italiensk'
 		},
 		{
-			"value": "lv",
-			"label": "Lettisk"
+			value: 'lv',
+			label: 'Lettisk'
 		},
 		{
-			"value": "lt",
-			"label": "Litauisk"
+			value: 'lt',
+			label: 'Litauisk'
 		},
 		{
-			"value": "mt",
-			"label": "Maltesisk"
+			value: 'mt',
+			label: 'Maltesisk'
 		},
 		{
-			"value": "pl",
-			"label": "Polere"
+			value: 'pl',
+			label: 'Polere'
 		},
 		{
-			"value": "pt",
-			"label": "Portugisisk"
+			value: 'pt',
+			label: 'Portugisisk'
 		},
 		{
-			"value": "ro",
-			"label": "Rumænsk"
+			value: 'ro',
+			label: 'Rumænsk'
 		},
 		{
-			"value": "sk",
-			"label": "Slovakisk"
+			value: 'sk',
+			label: 'Slovakisk'
 		},
 		{
-			"value": "sl",
-			"label": "Slovensk"
+			value: 'sl',
+			label: 'Slovensk'
 		},
 		{
-			"value": "es",
-			"label": "Spansk"
+			value: 'es',
+			label: 'Spansk'
 		},
 		{
-			"value": "sv",
-			"label": "Svensk"
+			value: 'sv',
+			label: 'Svensk'
 		}
 	],
-	"de": [{
-			"value": "bg",
-			"label": "Bulgarisch"
+	de: [
+		{
+			value: 'bg',
+			label: 'Bulgarisch'
 		},
 		{
-			"value": "hr",
-			"label": "Kroatisch"
+			value: 'hr',
+			label: 'Kroatisch'
 		},
 		{
-			"value": "cs",
-			"label": "Tschechisch"
+			value: 'cs',
+			label: 'Tschechisch'
 		},
 		{
-			"value": "da",
-			"label": "Dänisch"
+			value: 'da',
+			label: 'Dänisch'
 		},
 		{
-			"value": "nl",
-			"label": "Niederländisch"
+			value: 'nl',
+			label: 'Niederländisch'
 		},
 		{
-			"value": "en",
-			"label": "Englisch"
+			value: 'en',
+			label: 'Englisch'
 		},
 		{
-			"value": "et",
-			"label": "Estnisch"
+			value: 'et',
+			label: 'Estnisch'
 		},
 		{
-			"value": "fi",
-			"label": "Finnisch"
+			value: 'fi',
+			label: 'Finnisch'
 		},
 		{
-			"value": "fr",
-			"label": "Französisch"
+			value: 'fr',
+			label: 'Französisch'
 		},
 		{
-			"value": "de",
-			"label": "Deutsch"
+			value: 'de',
+			label: 'Deutsch'
 		},
 		{
-			"value": "el",
-			"label": "Griechisch"
+			value: 'el',
+			label: 'Griechisch'
 		},
 		{
-			"value": "hu",
-			"label": "Ungarisch"
+			value: 'hu',
+			label: 'Ungarisch'
 		},
 		{
-			"value": "ga",
-			"label": "Irisch"
+			value: 'ga',
+			label: 'Irisch'
 		},
 		{
-			"value": "it",
-			"label": "Italienisch"
+			value: 'it',
+			label: 'Italienisch'
 		},
 		{
-			"value": "lv",
-			"label": "Lettisch"
+			value: 'lv',
+			label: 'Lettisch'
 		},
 		{
-			"value": "lt",
-			"label": "Litauisch"
+			value: 'lt',
+			label: 'Litauisch'
 		},
 		{
-			"value": "mt",
-			"label": "Maltesisch"
+			value: 'mt',
+			label: 'Maltesisch'
 		},
 		{
-			"value": "pl",
-			"label": "Polieren"
+			value: 'pl',
+			label: 'Polieren'
 		},
 		{
-			"value": "pt",
-			"label": "Portugiesisch"
+			value: 'pt',
+			label: 'Portugiesisch'
 		},
 		{
-			"value": "ro",
-			"label": "Rumänisch"
+			value: 'ro',
+			label: 'Rumänisch'
 		},
 		{
-			"value": "sk",
-			"label": "Slowakisch"
+			value: 'sk',
+			label: 'Slowakisch'
 		},
 		{
-			"value": "sl",
-			"label": "Slowenisch"
+			value: 'sl',
+			label: 'Slowenisch'
 		},
 		{
-			"value": "es",
-			"label": "Spanisch"
+			value: 'es',
+			label: 'Spanisch'
 		},
 		{
-			"value": "sv",
-			"label": "Schwedisch"
+			value: 'sv',
+			label: 'Schwedisch'
 		}
 	],
-	"el": [{
-			"value": "bg",
-			"label": "Βούλγαρος"
+	el: [
+		{
+			value: 'bg',
+			label: 'Βούλγαρος'
 		},
 		{
-			"value": "hr",
-			"label": "Κροατία"
+			value: 'hr',
+			label: 'Κροατία'
 		},
 		{
-			"value": "cs",
-			"label": "Τσέχος"
+			value: 'cs',
+			label: 'Τσέχος'
 		},
 		{
-			"value": "da",
-			"label": "Δανικός"
+			value: 'da',
+			label: 'Δανικός'
 		},
 		{
-			"value": "nl",
-			"label": "Ολλανδός"
+			value: 'nl',
+			label: 'Ολλανδός'
 		},
 		{
-			"value": "en",
-			"label": "Αγγλικά"
+			value: 'en',
+			label: 'Αγγλικά'
 		},
 		{
-			"value": "et",
-			"label": "Εσθονική"
+			value: 'et',
+			label: 'Εσθονική'
 		},
 		{
-			"value": "fi",
-			"label": "Φινλανδικός"
+			value: 'fi',
+			label: 'Φινλανδικός'
 		},
 		{
-			"value": "fr",
-			"label": "Γαλλική γλώσσα"
+			value: 'fr',
+			label: 'Γαλλική γλώσσα'
 		},
 		{
-			"value": "de",
-			"label": "Γερμανός"
+			value: 'de',
+			label: 'Γερμανός'
 		},
 		{
-			"value": "el",
-			"label": "Ελληνικά"
+			value: 'el',
+			label: 'Ελληνικά'
 		},
 		{
-			"value": "hu",
-			"label": "Ουγγρικός"
+			value: 'hu',
+			label: 'Ουγγρικός'
 		},
 		{
-			"value": "ga",
-			"label": "Ιρλανδικός"
+			value: 'ga',
+			label: 'Ιρλανδικός'
 		},
 		{
-			"value": "it",
-			"label": "Ιταλικός"
+			value: 'it',
+			label: 'Ιταλικός'
 		},
 		{
-			"value": "lv",
-			"label": "Λετονική"
+			value: 'lv',
+			label: 'Λετονική'
 		},
 		{
-			"value": "lt",
-			"label": "Λιθουανικά"
+			value: 'lt',
+			label: 'Λιθουανικά'
 		},
 		{
-			"value": "mt",
-			"label": "Μαλτέζος"
+			value: 'mt',
+			label: 'Μαλτέζος'
 		},
 		{
-			"value": "pl",
-			"label": "Στίλβωση"
+			value: 'pl',
+			label: 'Στίλβωση'
 		},
 		{
-			"value": "pt",
-			"label": "Πορτογαλικά"
+			value: 'pt',
+			label: 'Πορτογαλικά'
 		},
 		{
-			"value": "ro",
-			"label": "Ρουμανικός"
+			value: 'ro',
+			label: 'Ρουμανικός'
 		},
 		{
-			"value": "sk",
-			"label": "Σλοβάκος"
+			value: 'sk',
+			label: 'Σλοβάκος'
 		},
 		{
-			"value": "sl",
-			"label": "Σλοβένος"
+			value: 'sl',
+			label: 'Σλοβένος'
 		},
 		{
-			"value": "es",
-			"label": "Ισπανικά"
+			value: 'es',
+			label: 'Ισπανικά'
 		},
 		{
-			"value": "sv",
-			"label": "Σουηδικά"
+			value: 'sv',
+			label: 'Σουηδικά'
 		}
 	],
-	"en": [{
-			"value": "bg",
-			"label": "Bulgarian"
+	en: [
+		{
+			value: 'bg',
+			label: 'Bulgarian'
 		},
 		{
-			"value": "hr",
-			"label": "Croatian"
+			value: 'hr',
+			label: 'Croatian'
 		},
 		{
-			"value": "cs",
-			"label": "Czech"
+			value: 'cs',
+			label: 'Czech'
 		},
 		{
-			"value": "da",
-			"label": "Danish"
+			value: 'da',
+			label: 'Danish'
 		},
 		{
-			"value": "nl",
-			"label": "Dutch"
+			value: 'nl',
+			label: 'Dutch'
 		},
 		{
-			"value": "en",
-			"label": "English"
+			value: 'en',
+			label: 'English'
 		},
 		{
-			"value": "et",
-			"label": "Estonian"
+			value: 'et',
+			label: 'Estonian'
 		},
 		{
-			"value": "fi",
-			"label": "Finnish"
+			value: 'fi',
+			label: 'Finnish'
 		},
 		{
-			"value": "fr",
-			"label": "French"
+			value: 'fr',
+			label: 'French'
 		},
 		{
-			"value": "de",
-			"label": "German"
+			value: 'de',
+			label: 'German'
 		},
 		{
-			"value": "el",
-			"label": "Greek"
+			value: 'el',
+			label: 'Greek'
 		},
 		{
-			"value": "hu",
-			"label": "Hungarian"
+			value: 'hu',
+			label: 'Hungarian'
 		},
 		{
-			"value": "ga",
-			"label": "Irish"
+			value: 'ga',
+			label: 'Irish'
 		},
 		{
-			"value": "it",
-			"label": "Italian"
+			value: 'it',
+			label: 'Italian'
 		},
 		{
-			"value": "lv",
-			"label": "Latvian"
+			value: 'lv',
+			label: 'Latvian'
 		},
 		{
-			"value": "lt",
-			"label": "Lithuanian"
+			value: 'lt',
+			label: 'Lithuanian'
 		},
 		{
-			"value": "mt",
-			"label": "Maltese"
+			value: 'mt',
+			label: 'Maltese'
 		},
 		{
-			"value": "pl",
-			"label": "Polish"
+			value: 'pl',
+			label: 'Polish'
 		},
 		{
-			"value": "pt",
-			"label": "Portuguese"
+			value: 'pt',
+			label: 'Portuguese'
 		},
 		{
-			"value": "ro",
-			"label": "Romanian"
+			value: 'ro',
+			label: 'Romanian'
 		},
 		{
-			"value": "sk",
-			"label": "Slovak"
+			value: 'sk',
+			label: 'Slovak'
 		},
 		{
-			"value": "sl",
-			"label": "Slovenian"
+			value: 'sl',
+			label: 'Slovenian'
 		},
 		{
-			"value": "es",
-			"label": "Spanish"
+			value: 'es',
+			label: 'Spanish'
 		},
 		{
-			"value": "sv",
-			"label": "Swedish"
+			value: 'sv',
+			label: 'Swedish'
 		}
 	],
-	"es": [{
-			"value": "bg",
-			"label": "Búlgaro"
+	es: [
+		{
+			value: 'bg',
+			label: 'Búlgaro'
 		},
 		{
-			"value": "hr",
-			"label": "Croata"
+			value: 'hr',
+			label: 'Croata'
 		},
 		{
-			"value": "cs",
-			"label": "Checo"
+			value: 'cs',
+			label: 'Checo'
 		},
 		{
-			"value": "da",
-			"label": "Danés"
+			value: 'da',
+			label: 'Danés'
 		},
 		{
-			"value": "nl",
-			"label": "Holandés"
+			value: 'nl',
+			label: 'Holandés'
 		},
 		{
-			"value": "en",
-			"label": "Inglés"
+			value: 'en',
+			label: 'Inglés'
 		},
 		{
-			"value": "et",
-			"label": "Estonio"
+			value: 'et',
+			label: 'Estonio'
 		},
 		{
-			"value": "fi",
-			"label": "Finlandés"
+			value: 'fi',
+			label: 'Finlandés'
 		},
 		{
-			"value": "fr",
-			"label": "Francés"
+			value: 'fr',
+			label: 'Francés'
 		},
 		{
-			"value": "de",
-			"label": "Alemán"
+			value: 'de',
+			label: 'Alemán'
 		},
 		{
-			"value": "el",
-			"label": "Griego"
+			value: 'el',
+			label: 'Griego'
 		},
 		{
-			"value": "hu",
-			"label": "Húngaro"
+			value: 'hu',
+			label: 'Húngaro'
 		},
 		{
-			"value": "ga",
-			"label": "Irlandesa"
+			value: 'ga',
+			label: 'Irlandesa'
 		},
 		{
-			"value": "it",
-			"label": "Italiano"
+			value: 'it',
+			label: 'Italiano'
 		},
 		{
-			"value": "lv",
-			"label": "Letón"
+			value: 'lv',
+			label: 'Letón'
 		},
 		{
-			"value": "lt",
-			"label": "Lituano"
+			value: 'lt',
+			label: 'Lituano'
 		},
 		{
-			"value": "mt",
-			"label": "Maltés"
+			value: 'mt',
+			label: 'Maltés'
 		},
 		{
-			"value": "pl",
-			"label": "Polaco"
+			value: 'pl',
+			label: 'Polaco'
 		},
 		{
-			"value": "pt",
-			"label": "Portugués"
+			value: 'pt',
+			label: 'Portugués'
 		},
 		{
-			"value": "ro",
-			"label": "Rumano"
+			value: 'ro',
+			label: 'Rumano'
 		},
 		{
-			"value": "sk",
-			"label": "Eslovaco"
+			value: 'sk',
+			label: 'Eslovaco'
 		},
 		{
-			"value": "sl",
-			"label": "Esloveno"
+			value: 'sl',
+			label: 'Esloveno'
 		},
 		{
-			"value": "es",
-			"label": "Español"
+			value: 'es',
+			label: 'Español'
 		},
 		{
-			"value": "sv",
-			"label": "Sueco"
+			value: 'sv',
+			label: 'Sueco'
 		}
 	],
-	"et": [{
-			"value": "bg",
-			"label": "Bulgaaria keel"
+	et: [
+		{
+			value: 'bg',
+			label: 'Bulgaaria keel'
 		},
 		{
-			"value": "hr",
-			"label": "Horvaatia"
+			value: 'hr',
+			label: 'Horvaatia'
 		},
 		{
-			"value": "cs",
-			"label": "Tšehhi"
+			value: 'cs',
+			label: 'Tšehhi'
 		},
 		{
-			"value": "da",
-			"label": "Taani keel"
+			value: 'da',
+			label: 'Taani keel'
 		},
 		{
-			"value": "nl",
-			"label": "Hollandi keel"
+			value: 'nl',
+			label: 'Hollandi keel'
 		},
 		{
-			"value": "en",
-			"label": "Inglise"
+			value: 'en',
+			label: 'Inglise'
 		},
 		{
-			"value": "et",
-			"label": "Eesti keel"
+			value: 'et',
+			label: 'Eesti keel'
 		},
 		{
-			"value": "fi",
-			"label": "Soome keel"
+			value: 'fi',
+			label: 'Soome keel'
 		},
 		{
-			"value": "fr",
-			"label": "Prantsuse keel"
+			value: 'fr',
+			label: 'Prantsuse keel'
 		},
 		{
-			"value": "de",
-			"label": "Saksa keel"
+			value: 'de',
+			label: 'Saksa keel'
 		},
 		{
-			"value": "el",
-			"label": "Kreeka keel"
+			value: 'el',
+			label: 'Kreeka keel'
 		},
 		{
-			"value": "hu",
-			"label": "Ungari"
+			value: 'hu',
+			label: 'Ungari'
 		},
 		{
-			"value": "ga",
-			"label": "Iirlane"
+			value: 'ga',
+			label: 'Iirlane'
 		},
 		{
-			"value": "it",
-			"label": "Itaalia keel"
+			value: 'it',
+			label: 'Itaalia keel'
 		},
 		{
-			"value": "lv",
-			"label": "Lätlane"
+			value: 'lv',
+			label: 'Lätlane'
 		},
 		{
-			"value": "lt",
-			"label": "Leedu"
+			value: 'lt',
+			label: 'Leedu'
 		},
 		{
-			"value": "mt",
-			"label": "Malta keel"
+			value: 'mt',
+			label: 'Malta keel'
 		},
 		{
-			"value": "pl",
-			"label": "Poola keel"
+			value: 'pl',
+			label: 'Poola keel'
 		},
 		{
-			"value": "pt",
-			"label": "Portugali keel"
+			value: 'pt',
+			label: 'Portugali keel'
 		},
 		{
-			"value": "ro",
-			"label": "Rumeenlane"
+			value: 'ro',
+			label: 'Rumeenlane'
 		},
 		{
-			"value": "sk",
-			"label": "Slovaki"
+			value: 'sk',
+			label: 'Slovaki'
 		},
 		{
-			"value": "sl",
-			"label": "Sloveenia"
+			value: 'sl',
+			label: 'Sloveenia'
 		},
 		{
-			"value": "es",
-			"label": "Hispaania keel"
+			value: 'es',
+			label: 'Hispaania keel'
 		},
 		{
-			"value": "sv",
-			"label": "Rootsi keel"
+			value: 'sv',
+			label: 'Rootsi keel'
 		}
 	],
-	"fi": [{
-			"value": "bg",
-			"label": "Bulgarialainen"
+	fi: [
+		{
+			value: 'bg',
+			label: 'Bulgarialainen'
 		},
 		{
-			"value": "hr",
-			"label": "Kroatia"
+			value: 'hr',
+			label: 'Kroatia'
 		},
 		{
-			"value": "cs",
-			"label": "Tšekki"
+			value: 'cs',
+			label: 'Tšekki'
 		},
 		{
-			"value": "da",
-			"label": "Tanskan kieli"
+			value: 'da',
+			label: 'Tanskan kieli'
 		},
 		{
-			"value": "nl",
-			"label": "Hollannin kieli"
+			value: 'nl',
+			label: 'Hollannin kieli'
 		},
 		{
-			"value": "en",
-			"label": "Englanti"
+			value: 'en',
+			label: 'Englanti'
 		},
 		{
-			"value": "et",
-			"label": "Virolainen"
+			value: 'et',
+			label: 'Virolainen'
 		},
 		{
-			"value": "fi",
-			"label": "Suomalainen"
+			value: 'fi',
+			label: 'Suomalainen'
 		},
 		{
-			"value": "fr",
-			"label": "Ranskan kieli"
+			value: 'fr',
+			label: 'Ranskan kieli'
 		},
 		{
-			"value": "de",
-			"label": "Saksan kieli"
+			value: 'de',
+			label: 'Saksan kieli'
 		},
 		{
-			"value": "el",
-			"label": "Kreikkalainen"
+			value: 'el',
+			label: 'Kreikkalainen'
 		},
 		{
-			"value": "hu",
-			"label": "Unkarin kieli"
+			value: 'hu',
+			label: 'Unkarin kieli'
 		},
 		{
-			"value": "ga",
-			"label": "Irlantilainen"
+			value: 'ga',
+			label: 'Irlantilainen'
 		},
 		{
-			"value": "it",
-			"label": "Italialainen"
+			value: 'it',
+			label: 'Italialainen'
 		},
 		{
-			"value": "lv",
-			"label": "Latvialainen"
+			value: 'lv',
+			label: 'Latvialainen'
 		},
 		{
-			"value": "lt",
-			"label": "Liettualainen"
+			value: 'lt',
+			label: 'Liettualainen'
 		},
 		{
-			"value": "mt",
-			"label": "Maltalainen"
+			value: 'mt',
+			label: 'Maltalainen'
 		},
 		{
-			"value": "pl",
-			"label": "Kiillottaa"
+			value: 'pl',
+			label: 'Kiillottaa'
 		},
 		{
-			"value": "pt",
-			"label": "Portugalin kieli"
+			value: 'pt',
+			label: 'Portugalin kieli'
 		},
 		{
-			"value": "ro",
-			"label": "Romanialainen"
+			value: 'ro',
+			label: 'Romanialainen'
 		},
 		{
-			"value": "sk",
-			"label": "Slovakian"
+			value: 'sk',
+			label: 'Slovakian'
 		},
 		{
-			"value": "sl",
-			"label": "Slovenialainen"
+			value: 'sl',
+			label: 'Slovenialainen'
 		},
 		{
-			"value": "es",
-			"label": "Espanja"
+			value: 'es',
+			label: 'Espanja'
 		},
 		{
-			"value": "sv",
-			"label": "Ruotsin kieli"
+			value: 'sv',
+			label: 'Ruotsin kieli'
 		}
 	],
-	"fr": [{
-			"value": "bg",
-			"label": "Bulgare"
+	fr: [
+		{
+			value: 'bg',
+			label: 'Bulgare'
 		},
 		{
-			"value": "hr",
-			"label": "Croate"
+			value: 'hr',
+			label: 'Croate'
 		},
 		{
-			"value": "cs",
-			"label": "Tchèque"
+			value: 'cs',
+			label: 'Tchèque'
 		},
 		{
-			"value": "da",
-			"label": "Danois"
+			value: 'da',
+			label: 'Danois'
 		},
 		{
-			"value": "nl",
-			"label": "Néerlandais"
+			value: 'nl',
+			label: 'Néerlandais'
 		},
 		{
-			"value": "en",
-			"label": "Anglais"
+			value: 'en',
+			label: 'Anglais'
 		},
 		{
-			"value": "et",
-			"label": "Estonien"
+			value: 'et',
+			label: 'Estonien'
 		},
 		{
-			"value": "fi",
-			"label": "Finlandais"
+			value: 'fi',
+			label: 'Finlandais'
 		},
 		{
-			"value": "fr",
-			"label": "Français"
+			value: 'fr',
+			label: 'Français'
 		},
 		{
-			"value": "de",
-			"label": "Allemand"
+			value: 'de',
+			label: 'Allemand'
 		},
 		{
-			"value": "el",
-			"label": "Grec"
+			value: 'el',
+			label: 'Grec'
 		},
 		{
-			"value": "hu",
-			"label": "Hongrois"
+			value: 'hu',
+			label: 'Hongrois'
 		},
 		{
-			"value": "ga",
-			"label": "Irlandais"
+			value: 'ga',
+			label: 'Irlandais'
 		},
 		{
-			"value": "it",
-			"label": "Italien"
+			value: 'it',
+			label: 'Italien'
 		},
 		{
-			"value": "lv",
-			"label": "Letton"
+			value: 'lv',
+			label: 'Letton'
 		},
 		{
-			"value": "lt",
-			"label": "Lituanien"
+			value: 'lt',
+			label: 'Lituanien'
 		},
 		{
-			"value": "mt",
-			"label": "Maltais"
+			value: 'mt',
+			label: 'Maltais'
 		},
 		{
-			"value": "pl",
-			"label": "Polonais"
+			value: 'pl',
+			label: 'Polonais'
 		},
 		{
-			"value": "pt",
-			"label": "Portugais"
+			value: 'pt',
+			label: 'Portugais'
 		},
 		{
-			"value": "ro",
-			"label": "Roumain"
+			value: 'ro',
+			label: 'Roumain'
 		},
 		{
-			"value": "sk",
-			"label": "Slovaque"
+			value: 'sk',
+			label: 'Slovaque'
 		},
 		{
-			"value": "sl",
-			"label": "Slovène"
+			value: 'sl',
+			label: 'Slovène'
 		},
 		{
-			"value": "es",
-			"label": "Espagnol"
+			value: 'es',
+			label: 'Espagnol'
 		},
 		{
-			"value": "sv",
-			"label": "Suédois"
+			value: 'sv',
+			label: 'Suédois'
 		}
 	],
-	"ga": [{
-			"value": "bg",
-			"label": "Bulgáiris"
+	ga: [
+		{
+			value: 'bg',
+			label: 'Bulgáiris'
 		},
 		{
-			"value": "hr",
-			"label": "Cróitis"
+			value: 'hr',
+			label: 'Cróitis'
 		},
 		{
-			"value": "cs",
-			"label": "Seiceach"
+			value: 'cs',
+			label: 'Seiceach'
 		},
 		{
-			"value": "da",
-			"label": "Danmhairgis"
+			value: 'da',
+			label: 'Danmhairgis'
 		},
 		{
-			"value": "nl",
-			"label": "Ollainnis"
+			value: 'nl',
+			label: 'Ollainnis'
 		},
 		{
-			"value": "en",
-			"label": "Béarla"
+			value: 'en',
+			label: 'Béarla'
 		},
 		{
-			"value": "et",
-			"label": "Eastóinis"
+			value: 'et',
+			label: 'Eastóinis'
 		},
 		{
-			"value": "fi",
-			"label": "Fionlainnis"
+			value: 'fi',
+			label: 'Fionlainnis'
 		},
 		{
-			"value": "fr",
-			"label": "Fraincis"
+			value: 'fr',
+			label: 'Fraincis'
 		},
 		{
-			"value": "de",
-			"label": "Gearmáinis"
+			value: 'de',
+			label: 'Gearmáinis'
 		},
 		{
-			"value": "el",
-			"label": "Gréigis"
+			value: 'el',
+			label: 'Gréigis'
 		},
 		{
-			"value": "hu",
-			"label": "Ungáiris"
+			value: 'hu',
+			label: 'Ungáiris'
 		},
 		{
-			"value": "ga",
-			"label": "Gaeilge"
+			value: 'ga',
+			label: 'Gaeilge'
 		},
 		{
-			"value": "it",
-			"label": "Iodálach"
+			value: 'it',
+			label: 'Iodálach'
 		},
 		{
-			"value": "lv",
-			"label": "Laitvis"
+			value: 'lv',
+			label: 'Laitvis'
 		},
 		{
-			"value": "lt",
-			"label": "Liotuáinis"
+			value: 'lt',
+			label: 'Liotuáinis'
 		},
 		{
-			"value": "mt",
-			"label": "Máltais"
+			value: 'mt',
+			label: 'Máltais'
 		},
 		{
-			"value": "pl",
-			"label": "Polainnis"
+			value: 'pl',
+			label: 'Polainnis'
 		},
 		{
-			"value": "pt",
-			"label": "Portaingéilis"
+			value: 'pt',
+			label: 'Portaingéilis'
 		},
 		{
-			"value": "ro",
-			"label": "Rómáinis"
+			value: 'ro',
+			label: 'Rómáinis'
 		},
 		{
-			"value": "sk",
-			"label": "Slóvaicis"
+			value: 'sk',
+			label: 'Slóvaicis'
 		},
 		{
-			"value": "sl",
-			"label": "Slóivéinis"
+			value: 'sl',
+			label: 'Slóivéinis'
 		},
 		{
-			"value": "es",
-			"label": "Spainnis"
+			value: 'es',
+			label: 'Spainnis'
 		},
 		{
-			"value": "sv",
-			"label": "Sualainnis"
+			value: 'sv',
+			label: 'Sualainnis'
 		}
 	],
-	"hr": [{
-			"value": "bg",
-			"label": "Bugarski"
+	hr: [
+		{
+			value: 'bg',
+			label: 'Bugarski'
 		},
 		{
-			"value": "hr",
-			"label": "Hrvatski"
+			value: 'hr',
+			label: 'Hrvatski'
 		},
 		{
-			"value": "cs",
-			"label": "Češki"
+			value: 'cs',
+			label: 'Češki'
 		},
 		{
-			"value": "da",
-			"label": "Danski"
+			value: 'da',
+			label: 'Danski'
 		},
 		{
-			"value": "nl",
-			"label": "Nizozemski"
+			value: 'nl',
+			label: 'Nizozemski'
 		},
 		{
-			"value": "en",
-			"label": "Engleski"
+			value: 'en',
+			label: 'Engleski'
 		},
 		{
-			"value": "et",
-			"label": "Estonski"
+			value: 'et',
+			label: 'Estonski'
 		},
 		{
-			"value": "fi",
-			"label": "Finski"
+			value: 'fi',
+			label: 'Finski'
 		},
 		{
-			"value": "fr",
-			"label": "Francuski"
+			value: 'fr',
+			label: 'Francuski'
 		},
 		{
-			"value": "de",
-			"label": "Njemački"
+			value: 'de',
+			label: 'Njemački'
 		},
 		{
-			"value": "el",
-			"label": "Grčki"
+			value: 'el',
+			label: 'Grčki'
 		},
 		{
-			"value": "hu",
-			"label": "Mađarski"
+			value: 'hu',
+			label: 'Mađarski'
 		},
 		{
-			"value": "ga",
-			"label": "Irski"
+			value: 'ga',
+			label: 'Irski'
 		},
 		{
-			"value": "it",
-			"label": "Talijanski"
+			value: 'it',
+			label: 'Talijanski'
 		},
 		{
-			"value": "lv",
-			"label": "Latvijski"
+			value: 'lv',
+			label: 'Latvijski'
 		},
 		{
-			"value": "lt",
-			"label": "Litvanski"
+			value: 'lt',
+			label: 'Litvanski'
 		},
 		{
-			"value": "mt",
-			"label": "Malteški"
+			value: 'mt',
+			label: 'Malteški'
 		},
 		{
-			"value": "pl",
-			"label": "Polirati"
+			value: 'pl',
+			label: 'Polirati'
 		},
 		{
-			"value": "pt",
-			"label": "Portugalski"
+			value: 'pt',
+			label: 'Portugalski'
 		},
 		{
-			"value": "ro",
-			"label": "Rumunjski"
+			value: 'ro',
+			label: 'Rumunjski'
 		},
 		{
-			"value": "sk",
-			"label": "Slovački"
+			value: 'sk',
+			label: 'Slovački'
 		},
 		{
-			"value": "sl",
-			"label": "Slovenski"
+			value: 'sl',
+			label: 'Slovenski'
 		},
 		{
-			"value": "es",
-			"label": "Španjolski"
+			value: 'es',
+			label: 'Španjolski'
 		},
 		{
-			"value": "sv",
-			"label": "Švedski"
+			value: 'sv',
+			label: 'Švedski'
 		}
 	],
-	"hu": [{
-			"value": "bg",
-			"label": "Bolgár"
+	hu: [
+		{
+			value: 'bg',
+			label: 'Bolgár'
 		},
 		{
-			"value": "hr",
-			"label": "Horvát"
+			value: 'hr',
+			label: 'Horvát'
 		},
 		{
-			"value": "cs",
-			"label": "Cseh"
+			value: 'cs',
+			label: 'Cseh'
 		},
 		{
-			"value": "da",
-			"label": "Dán"
+			value: 'da',
+			label: 'Dán'
 		},
 		{
-			"value": "nl",
-			"label": "Holland"
+			value: 'nl',
+			label: 'Holland'
 		},
 		{
-			"value": "en",
-			"label": "Angol"
+			value: 'en',
+			label: 'Angol'
 		},
 		{
-			"value": "et",
-			"label": "Észt"
+			value: 'et',
+			label: 'Észt'
 		},
 		{
-			"value": "fi",
-			"label": "Finn"
+			value: 'fi',
+			label: 'Finn'
 		},
 		{
-			"value": "fr",
-			"label": "Francia"
+			value: 'fr',
+			label: 'Francia'
 		},
 		{
-			"value": "de",
-			"label": "Német"
+			value: 'de',
+			label: 'Német'
 		},
 		{
-			"value": "el",
-			"label": "Görög"
+			value: 'el',
+			label: 'Görög'
 		},
 		{
-			"value": "hu",
-			"label": "Magyar"
+			value: 'hu',
+			label: 'Magyar'
 		},
 		{
-			"value": "ga",
-			"label": "Ír"
+			value: 'ga',
+			label: 'Ír'
 		},
 		{
-			"value": "it",
-			"label": "Olasz"
+			value: 'it',
+			label: 'Olasz'
 		},
 		{
-			"value": "lv",
-			"label": "Lett"
+			value: 'lv',
+			label: 'Lett'
 		},
 		{
-			"value": "lt",
-			"label": "Litván"
+			value: 'lt',
+			label: 'Litván'
 		},
 		{
-			"value": "mt",
-			"label": "Máltai"
+			value: 'mt',
+			label: 'Máltai'
 		},
 		{
-			"value": "pl",
-			"label": "Fényesít"
+			value: 'pl',
+			label: 'Fényesít'
 		},
 		{
-			"value": "pt",
-			"label": "Portugál"
+			value: 'pt',
+			label: 'Portugál'
 		},
 		{
-			"value": "ro",
-			"label": "Román"
+			value: 'ro',
+			label: 'Román'
 		},
 		{
-			"value": "sk",
-			"label": "Szlovák"
+			value: 'sk',
+			label: 'Szlovák'
 		},
 		{
-			"value": "sl",
-			"label": "Szlovén"
+			value: 'sl',
+			label: 'Szlovén'
 		},
 		{
-			"value": "es",
-			"label": "Spanyol"
+			value: 'es',
+			label: 'Spanyol'
 		},
 		{
-			"value": "sv",
-			"label": "Svéd"
+			value: 'sv',
+			label: 'Svéd'
 		}
 	],
-	"it": [{
-			"value": "bg",
-			"label": "Bulgaro"
+	it: [
+		{
+			value: 'bg',
+			label: 'Bulgaro'
 		},
 		{
-			"value": "hr",
-			"label": "Croato"
+			value: 'hr',
+			label: 'Croato'
 		},
 		{
-			"value": "cs",
-			"label": "Ceco"
+			value: 'cs',
+			label: 'Ceco'
 		},
 		{
-			"value": "da",
-			"label": "Danese"
+			value: 'da',
+			label: 'Danese'
 		},
 		{
-			"value": "nl",
-			"label": "Olandese"
+			value: 'nl',
+			label: 'Olandese'
 		},
 		{
-			"value": "en",
-			"label": "Inglese"
+			value: 'en',
+			label: 'Inglese'
 		},
 		{
-			"value": "et",
-			"label": "Estone"
+			value: 'et',
+			label: 'Estone'
 		},
 		{
-			"value": "fi",
-			"label": "Finlandese"
+			value: 'fi',
+			label: 'Finlandese'
 		},
 		{
-			"value": "fr",
-			"label": "Francese"
+			value: 'fr',
+			label: 'Francese'
 		},
 		{
-			"value": "de",
-			"label": "Tedesco"
+			value: 'de',
+			label: 'Tedesco'
 		},
 		{
-			"value": "el",
-			"label": "Greco"
+			value: 'el',
+			label: 'Greco'
 		},
 		{
-			"value": "hu",
-			"label": "Ungherese"
+			value: 'hu',
+			label: 'Ungherese'
 		},
 		{
-			"value": "ga",
-			"label": "Irlandesi"
+			value: 'ga',
+			label: 'Irlandesi'
 		},
 		{
-			"value": "it",
-			"label": "Italiano"
+			value: 'it',
+			label: 'Italiano'
 		},
 		{
-			"value": "lv",
-			"label": "Lettone"
+			value: 'lv',
+			label: 'Lettone'
 		},
 		{
-			"value": "lt",
-			"label": "Lituano"
+			value: 'lt',
+			label: 'Lituano'
 		},
 		{
-			"value": "mt",
-			"label": "Maltese"
+			value: 'mt',
+			label: 'Maltese'
 		},
 		{
-			"value": "pl",
-			"label": "Polacco"
+			value: 'pl',
+			label: 'Polacco'
 		},
 		{
-			"value": "pt",
-			"label": "Portoghese"
+			value: 'pt',
+			label: 'Portoghese'
 		},
 		{
-			"value": "ro",
-			"label": "Rumeno"
+			value: 'ro',
+			label: 'Rumeno'
 		},
 		{
-			"value": "sk",
-			"label": "Slovacco"
+			value: 'sk',
+			label: 'Slovacco'
 		},
 		{
-			"value": "sl",
-			"label": "Sloveno"
+			value: 'sl',
+			label: 'Sloveno'
 		},
 		{
-			"value": "es",
-			"label": "Spagnolo"
+			value: 'es',
+			label: 'Spagnolo'
 		},
 		{
-			"value": "sv",
-			"label": "Svedese"
+			value: 'sv',
+			label: 'Svedese'
 		}
 	],
-	"lt": [{
-			"value": "bg",
-			"label": "Bulgarų"
+	lt: [
+		{
+			value: 'bg',
+			label: 'Bulgarų'
 		},
 		{
-			"value": "hr",
-			"label": "Kroatų"
+			value: 'hr',
+			label: 'Kroatų'
 		},
 		{
-			"value": "cs",
-			"label": "Čekų"
+			value: 'cs',
+			label: 'Čekų'
 		},
 		{
-			"value": "da",
-			"label": "Danų"
+			value: 'da',
+			label: 'Danų'
 		},
 		{
-			"value": "nl",
-			"label": "Olandų"
+			value: 'nl',
+			label: 'Olandų'
 		},
 		{
-			"value": "en",
-			"label": "Anglų"
+			value: 'en',
+			label: 'Anglų'
 		},
 		{
-			"value": "et",
-			"label": "Estų"
+			value: 'et',
+			label: 'Estų'
 		},
 		{
-			"value": "fi",
-			"label": "Suomių"
+			value: 'fi',
+			label: 'Suomių'
 		},
 		{
-			"value": "fr",
-			"label": "Prancūzų kalba"
+			value: 'fr',
+			label: 'Prancūzų kalba'
 		},
 		{
-			"value": "de",
-			"label": "Vokiečių kalba"
+			value: 'de',
+			label: 'Vokiečių kalba'
 		},
 		{
-			"value": "el",
-			"label": "Graikų"
+			value: 'el',
+			label: 'Graikų'
 		},
 		{
-			"value": "hu",
-			"label": "Vengrų"
+			value: 'hu',
+			label: 'Vengrų'
 		},
 		{
-			"value": "ga",
-			"label": "Airių"
+			value: 'ga',
+			label: 'Airių'
 		},
 		{
-			"value": "it",
-			"label": "Italų"
+			value: 'it',
+			label: 'Italų'
 		},
 		{
-			"value": "lv",
-			"label": "Latvių"
+			value: 'lv',
+			label: 'Latvių'
 		},
 		{
-			"value": "lt",
-			"label": "Lietuvių"
+			value: 'lt',
+			label: 'Lietuvių'
 		},
 		{
-			"value": "mt",
-			"label": "Maltiečių"
+			value: 'mt',
+			label: 'Maltiečių'
 		},
 		{
-			"value": "pl",
-			"label": "Lenkas"
+			value: 'pl',
+			label: 'Lenkas'
 		},
 		{
-			"value": "pt",
-			"label": "Portugalų"
+			value: 'pt',
+			label: 'Portugalų'
 		},
 		{
-			"value": "ro",
-			"label": "Rumunų"
+			value: 'ro',
+			label: 'Rumunų'
 		},
 		{
-			"value": "sk",
-			"label": "Slovakų"
+			value: 'sk',
+			label: 'Slovakų'
 		},
 		{
-			"value": "sl",
-			"label": "Slovėnų"
+			value: 'sl',
+			label: 'Slovėnų'
 		},
 		{
-			"value": "es",
-			"label": "Ispanų"
+			value: 'es',
+			label: 'Ispanų'
 		},
 		{
-			"value": "sv",
-			"label": "Švedijos"
+			value: 'sv',
+			label: 'Švedijos'
 		}
 	],
-	"lv": [{
-			"value": "bg",
-			"label": "Bulgāru valoda"
+	lv: [
+		{
+			value: 'bg',
+			label: 'Bulgāru valoda'
 		},
 		{
-			"value": "hr",
-			"label": "Horvātu"
+			value: 'hr',
+			label: 'Horvātu'
 		},
 		{
-			"value": "cs",
-			"label": "Čehu"
+			value: 'cs',
+			label: 'Čehu'
 		},
 		{
-			"value": "da",
-			"label": "Dāņu"
+			value: 'da',
+			label: 'Dāņu'
 		},
 		{
-			"value": "nl",
-			"label": "Holandiešu valoda"
+			value: 'nl',
+			label: 'Holandiešu valoda'
 		},
 		{
-			"value": "en",
-			"label": "Angļu"
+			value: 'en',
+			label: 'Angļu'
 		},
 		{
-			"value": "et",
-			"label": "Igauņu"
+			value: 'et',
+			label: 'Igauņu'
 		},
 		{
-			"value": "fi",
-			"label": "Somu"
+			value: 'fi',
+			label: 'Somu'
 		},
 		{
-			"value": "fr",
-			"label": "Franču valoda"
+			value: 'fr',
+			label: 'Franču valoda'
 		},
 		{
-			"value": "de",
-			"label": "Vāciski"
+			value: 'de',
+			label: 'Vāciski'
 		},
 		{
-			"value": "el",
-			"label": "Grieķu valoda"
+			value: 'el',
+			label: 'Grieķu valoda'
 		},
 		{
-			"value": "hu",
-			"label": "Ungāru"
+			value: 'hu',
+			label: 'Ungāru'
 		},
 		{
-			"value": "ga",
-			"label": "Īru"
+			value: 'ga',
+			label: 'Īru'
 		},
 		{
-			"value": "it",
-			"label": "Itāļu valoda"
+			value: 'it',
+			label: 'Itāļu valoda'
 		},
 		{
-			"value": "lv",
-			"label": "Latviski"
+			value: 'lv',
+			label: 'Latviski'
 		},
 		{
-			"value": "lt",
-			"label": "Lietuviešu"
+			value: 'lt',
+			label: 'Lietuviešu'
 		},
 		{
-			"value": "mt",
-			"label": "Maltiešu"
+			value: 'mt',
+			label: 'Maltiešu'
 		},
 		{
-			"value": "pl",
-			"label": "Poļu"
+			value: 'pl',
+			label: 'Poļu'
 		},
 		{
-			"value": "pt",
-			"label": "Portugāļu"
+			value: 'pt',
+			label: 'Portugāļu'
 		},
 		{
-			"value": "ro",
-			"label": "Rumāņu valoda"
+			value: 'ro',
+			label: 'Rumāņu valoda'
 		},
 		{
-			"value": "sk",
-			"label": "Slovāku"
+			value: 'sk',
+			label: 'Slovāku'
 		},
 		{
-			"value": "sl",
-			"label": "Slovēņu"
+			value: 'sl',
+			label: 'Slovēņu'
 		},
 		{
-			"value": "es",
-			"label": "Spāņu valoda"
+			value: 'es',
+			label: 'Spāņu valoda'
 		},
 		{
-			"value": "sv",
-			"label": "Zviedru"
+			value: 'sv',
+			label: 'Zviedru'
 		}
 	],
-	"mt": [{
-			"value": "bg",
-			"label": "Bulgaru"
+	mt: [
+		{
+			value: 'bg',
+			label: 'Bulgaru'
 		},
 		{
-			"value": "hr",
-			"label": "Kroat"
+			value: 'hr',
+			label: 'Kroat'
 		},
 		{
-			"value": "cs",
-			"label": "Ċek"
+			value: 'cs',
+			label: 'Ċek'
 		},
 		{
-			"value": "da",
-			"label": "Daniż"
+			value: 'da',
+			label: 'Daniż'
 		},
 		{
-			"value": "nl",
-			"label": "Olandiż"
+			value: 'nl',
+			label: 'Olandiż'
 		},
 		{
-			"value": "en",
-			"label": "Ingliż"
+			value: 'en',
+			label: 'Ingliż'
 		},
 		{
-			"value": "et",
-			"label": "Estonjan"
+			value: 'et',
+			label: 'Estonjan'
 		},
 		{
-			"value": "fi",
-			"label": "Finlandiż"
+			value: 'fi',
+			label: 'Finlandiż'
 		},
 		{
-			"value": "fr",
-			"label": "Franċiż"
+			value: 'fr',
+			label: 'Franċiż'
 		},
 		{
-			"value": "de",
-			"label": "Ġermaniż"
+			value: 'de',
+			label: 'Ġermaniż'
 		},
 		{
-			"value": "el",
-			"label": "Grieg"
+			value: 'el',
+			label: 'Grieg'
 		},
 		{
-			"value": "hu",
-			"label": "Ungeriż"
+			value: 'hu',
+			label: 'Ungeriż'
 		},
 		{
-			"value": "ga",
-			"label": "Irlandiż"
+			value: 'ga',
+			label: 'Irlandiż'
 		},
 		{
-			"value": "it",
-			"label": "Taljan"
+			value: 'it',
+			label: 'Taljan'
 		},
 		{
-			"value": "lv",
-			"label": "Latvjan"
+			value: 'lv',
+			label: 'Latvjan'
 		},
 		{
-			"value": "lt",
-			"label": "Litwan"
+			value: 'lt',
+			label: 'Litwan'
 		},
 		{
-			"value": "mt",
-			"label": "Malti"
+			value: 'mt',
+			label: 'Malti'
 		},
 		{
-			"value": "pl",
-			"label": "Pollakk"
+			value: 'pl',
+			label: 'Pollakk'
 		},
 		{
-			"value": "pt",
-			"label": "Portugiż"
+			value: 'pt',
+			label: 'Portugiż'
 		},
 		{
-			"value": "ro",
-			"label": "Rumen"
+			value: 'ro',
+			label: 'Rumen'
 		},
 		{
-			"value": "sk",
-			"label": "Slovakk"
+			value: 'sk',
+			label: 'Slovakk'
 		},
 		{
-			"value": "sl",
-			"label": "Sloven"
+			value: 'sl',
+			label: 'Sloven'
 		},
 		{
-			"value": "es",
-			"label": "Spanjol"
+			value: 'es',
+			label: 'Spanjol'
 		},
 		{
-			"value": "sv",
-			"label": "Svediż"
+			value: 'sv',
+			label: 'Svediż'
 		}
 	],
-	"nl": [{
-			"value": "bg",
-			"label": "Bulgaars"
+	nl: [
+		{
+			value: 'bg',
+			label: 'Bulgaars'
 		},
 		{
-			"value": "hr",
-			"label": "Kroatisch"
+			value: 'hr',
+			label: 'Kroatisch'
 		},
 		{
-			"value": "cs",
-			"label": "Tsjechisch"
+			value: 'cs',
+			label: 'Tsjechisch'
 		},
 		{
-			"value": "da",
-			"label": "Deens"
+			value: 'da',
+			label: 'Deens'
 		},
 		{
-			"value": "nl",
-			"label": "Nederlands"
+			value: 'nl',
+			label: 'Nederlands'
 		},
 		{
-			"value": "en",
-			"label": "Engels"
+			value: 'en',
+			label: 'Engels'
 		},
 		{
-			"value": "et",
-			"label": "Ests"
+			value: 'et',
+			label: 'Ests'
 		},
 		{
-			"value": "fi",
-			"label": "Fins"
+			value: 'fi',
+			label: 'Fins'
 		},
 		{
-			"value": "fr",
-			"label": "Frans"
+			value: 'fr',
+			label: 'Frans'
 		},
 		{
-			"value": "de",
-			"label": "Duits"
+			value: 'de',
+			label: 'Duits'
 		},
 		{
-			"value": "el",
-			"label": "Grieks"
+			value: 'el',
+			label: 'Grieks'
 		},
 		{
-			"value": "hu",
-			"label": "Hongaars"
+			value: 'hu',
+			label: 'Hongaars'
 		},
 		{
-			"value": "ga",
-			"label": "Iers"
+			value: 'ga',
+			label: 'Iers'
 		},
 		{
-			"value": "it",
-			"label": "Italiaans"
+			value: 'it',
+			label: 'Italiaans'
 		},
 		{
-			"value": "lv",
-			"label": "Lets"
+			value: 'lv',
+			label: 'Lets'
 		},
 		{
-			"value": "lt",
-			"label": "Litouws"
+			value: 'lt',
+			label: 'Litouws'
 		},
 		{
-			"value": "mt",
-			"label": "Maltees"
+			value: 'mt',
+			label: 'Maltees'
 		},
 		{
-			"value": "pl",
-			"label": "Pools"
+			value: 'pl',
+			label: 'Pools'
 		},
 		{
-			"value": "pt",
-			"label": "Portugees"
+			value: 'pt',
+			label: 'Portugees'
 		},
 		{
-			"value": "ro",
-			"label": "Roemeense"
+			value: 'ro',
+			label: 'Roemeense'
 		},
 		{
-			"value": "sk",
-			"label": "Slowaaks"
+			value: 'sk',
+			label: 'Slowaaks'
 		},
 		{
-			"value": "sl",
-			"label": "Sloveens"
+			value: 'sl',
+			label: 'Sloveens'
 		},
 		{
-			"value": "es",
-			"label": "Spaans"
+			value: 'es',
+			label: 'Spaans'
 		},
 		{
-			"value": "sv",
-			"label": "Zweeds"
+			value: 'sv',
+			label: 'Zweeds'
 		}
 	],
-	"pl": [{
-			"value": "bg",
-			"label": "Bułgarski"
+	pl: [
+		{
+			value: 'bg',
+			label: 'Bułgarski'
 		},
 		{
-			"value": "hr",
-			"label": "Chorwacki"
+			value: 'hr',
+			label: 'Chorwacki'
 		},
 		{
-			"value": "cs",
-			"label": "Czech"
+			value: 'cs',
+			label: 'Czech'
 		},
 		{
-			"value": "da",
-			"label": "Duński"
+			value: 'da',
+			label: 'Duński'
 		},
 		{
-			"value": "nl",
-			"label": "Holenderski"
+			value: 'nl',
+			label: 'Holenderski'
 		},
 		{
-			"value": "en",
-			"label": "Język angielski"
+			value: 'en',
+			label: 'Język angielski'
 		},
 		{
-			"value": "et",
-			"label": "Estoński"
+			value: 'et',
+			label: 'Estoński'
 		},
 		{
-			"value": "fi",
-			"label": "Fiński"
+			value: 'fi',
+			label: 'Fiński'
 		},
 		{
-			"value": "fr",
-			"label": "Francuski"
+			value: 'fr',
+			label: 'Francuski'
 		},
 		{
-			"value": "de",
-			"label": "Niemiecki"
+			value: 'de',
+			label: 'Niemiecki'
 		},
 		{
-			"value": "el",
-			"label": "Grecki"
+			value: 'el',
+			label: 'Grecki'
 		},
 		{
-			"value": "hu",
-			"label": "Język węgierski"
+			value: 'hu',
+			label: 'Język węgierski'
 		},
 		{
-			"value": "ga",
-			"label": "Irlandzki"
+			value: 'ga',
+			label: 'Irlandzki'
 		},
 		{
-			"value": "it",
-			"label": "Włoski"
+			value: 'it',
+			label: 'Włoski'
 		},
 		{
-			"value": "lv",
-			"label": "Łotewski"
+			value: 'lv',
+			label: 'Łotewski'
 		},
 		{
-			"value": "lt",
-			"label": "Litewski"
+			value: 'lt',
+			label: 'Litewski'
 		},
 		{
-			"value": "mt",
-			"label": "Maltański"
+			value: 'mt',
+			label: 'Maltański'
 		},
 		{
-			"value": "pl",
-			"label": "Polski"
+			value: 'pl',
+			label: 'Polski'
 		},
 		{
-			"value": "pt",
-			"label": "Portugalski"
+			value: 'pt',
+			label: 'Portugalski'
 		},
 		{
-			"value": "ro",
-			"label": "Rumuński"
+			value: 'ro',
+			label: 'Rumuński'
 		},
 		{
-			"value": "sk",
-			"label": "Słowacki"
+			value: 'sk',
+			label: 'Słowacki'
 		},
 		{
-			"value": "sl",
-			"label": "Słoweński"
+			value: 'sl',
+			label: 'Słoweński'
 		},
 		{
-			"value": "es",
-			"label": "Hiszpański"
+			value: 'es',
+			label: 'Hiszpański'
 		},
 		{
-			"value": "sv",
-			"label": "Szwedzki"
+			value: 'sv',
+			label: 'Szwedzki'
 		}
 	],
-	"pt": [{
-			"value": "bg",
-			"label": "Búlgaro"
+	pt: [
+		{
+			value: 'bg',
+			label: 'Búlgaro'
 		},
 		{
-			"value": "hr",
-			"label": "Croata"
+			value: 'hr',
+			label: 'Croata'
 		},
 		{
-			"value": "cs",
-			"label": "Tcheco"
+			value: 'cs',
+			label: 'Tcheco'
 		},
 		{
-			"value": "da",
-			"label": "Dinamarquês"
+			value: 'da',
+			label: 'Dinamarquês'
 		},
 		{
-			"value": "nl",
-			"label": "Holandês"
+			value: 'nl',
+			label: 'Holandês'
 		},
 		{
-			"value": "en",
-			"label": "Inglês"
+			value: 'en',
+			label: 'Inglês'
 		},
 		{
-			"value": "et",
-			"label": "Estoniano"
+			value: 'et',
+			label: 'Estoniano'
 		},
 		{
-			"value": "fi",
-			"label": "Finlandês"
+			value: 'fi',
+			label: 'Finlandês'
 		},
 		{
-			"value": "fr",
-			"label": "Francês"
+			value: 'fr',
+			label: 'Francês'
 		},
 		{
-			"value": "de",
-			"label": "Alemão"
+			value: 'de',
+			label: 'Alemão'
 		},
 		{
-			"value": "el",
-			"label": "Grego"
+			value: 'el',
+			label: 'Grego'
 		},
 		{
-			"value": "hu",
-			"label": "Húngaro"
+			value: 'hu',
+			label: 'Húngaro'
 		},
 		{
-			"value": "ga",
-			"label": "Irlandês"
+			value: 'ga',
+			label: 'Irlandês'
 		},
 		{
-			"value": "it",
-			"label": "Italiano"
+			value: 'it',
+			label: 'Italiano'
 		},
 		{
-			"value": "lv",
-			"label": "Letão"
+			value: 'lv',
+			label: 'Letão'
 		},
 		{
-			"value": "lt",
-			"label": "Lituano"
+			value: 'lt',
+			label: 'Lituano'
 		},
 		{
-			"value": "mt",
-			"label": "Maltês"
+			value: 'mt',
+			label: 'Maltês'
 		},
 		{
-			"value": "pl",
-			"label": "Polonês"
+			value: 'pl',
+			label: 'Polonês'
 		},
 		{
-			"value": "pt",
-			"label": "Português"
+			value: 'pt',
+			label: 'Português'
 		},
 		{
-			"value": "ro",
-			"label": "Romena"
+			value: 'ro',
+			label: 'Romena'
 		},
 		{
-			"value": "sk",
-			"label": "Eslovaco"
+			value: 'sk',
+			label: 'Eslovaco'
 		},
 		{
-			"value": "sl",
-			"label": "Esloveno"
+			value: 'sl',
+			label: 'Esloveno'
 		},
 		{
-			"value": "es",
-			"label": "Espanhol"
+			value: 'es',
+			label: 'Espanhol'
 		},
 		{
-			"value": "sv",
-			"label": "Sueco"
+			value: 'sv',
+			label: 'Sueco'
 		}
 	],
-	"ro": [{
-			"value": "bg",
-			"label": "Bulgară"
+	ro: [
+		{
+			value: 'bg',
+			label: 'Bulgară'
 		},
 		{
-			"value": "hr",
-			"label": "Croat"
+			value: 'hr',
+			label: 'Croat'
 		},
 		{
-			"value": "cs",
-			"label": "Ceh"
+			value: 'cs',
+			label: 'Ceh'
 		},
 		{
-			"value": "da",
-			"label": "Danez"
+			value: 'da',
+			label: 'Danez'
 		},
 		{
-			"value": "nl",
-			"label": "Olandeză"
+			value: 'nl',
+			label: 'Olandeză'
 		},
 		{
-			"value": "en",
-			"label": "Engleză"
+			value: 'en',
+			label: 'Engleză'
 		},
 		{
-			"value": "et",
-			"label": "Estonă"
+			value: 'et',
+			label: 'Estonă'
 		},
 		{
-			"value": "fi",
-			"label": "Finlandeză"
+			value: 'fi',
+			label: 'Finlandeză'
 		},
 		{
-			"value": "fr",
-			"label": "Limba franceza"
+			value: 'fr',
+			label: 'Limba franceza'
 		},
 		{
-			"value": "de",
-			"label": "Limba germana"
+			value: 'de',
+			label: 'Limba germana'
 		},
 		{
-			"value": "el",
-			"label": "Greacă"
+			value: 'el',
+			label: 'Greacă'
 		},
 		{
-			"value": "hu",
-			"label": "Maghiară"
+			value: 'hu',
+			label: 'Maghiară'
 		},
 		{
-			"value": "ga",
-			"label": "Irlandez"
+			value: 'ga',
+			label: 'Irlandez'
 		},
 		{
-			"value": "it",
-			"label": "Italiană"
+			value: 'it',
+			label: 'Italiană'
 		},
 		{
-			"value": "lv",
-			"label": "Letonă"
+			value: 'lv',
+			label: 'Letonă'
 		},
 		{
-			"value": "lt",
-			"label": "Lituanian"
+			value: 'lt',
+			label: 'Lituanian'
 		},
 		{
-			"value": "mt",
-			"label": "Malteză"
+			value: 'mt',
+			label: 'Malteză'
 		},
 		{
-			"value": "pl",
-			"label": "Lustrui"
+			value: 'pl',
+			label: 'Lustrui'
 		},
 		{
-			"value": "pt",
-			"label": "Portugheză"
+			value: 'pt',
+			label: 'Portugheză'
 		},
 		{
-			"value": "ro",
-			"label": "Română"
+			value: 'ro',
+			label: 'Română'
 		},
 		{
-			"value": "sk",
-			"label": "Slovacă"
+			value: 'sk',
+			label: 'Slovacă'
 		},
 		{
-			"value": "sl",
-			"label": "Slovenă"
+			value: 'sl',
+			label: 'Slovenă'
 		},
 		{
-			"value": "es",
-			"label": "Spaniolă"
+			value: 'es',
+			label: 'Spaniolă'
 		},
 		{
-			"value": "sv",
-			"label": "Suedez"
+			value: 'sv',
+			label: 'Suedez'
 		}
 	],
-	"sk": [{
-			"value": "bg",
-			"label": "Bulharčina"
+	sk: [
+		{
+			value: 'bg',
+			label: 'Bulharčina'
 		},
 		{
-			"value": "hr",
-			"label": "Chorvátsky"
+			value: 'hr',
+			label: 'Chorvátsky'
 		},
 		{
-			"value": "cs",
-			"label": "Český"
+			value: 'cs',
+			label: 'Český'
 		},
 		{
-			"value": "da",
-			"label": "Dánčina"
+			value: 'da',
+			label: 'Dánčina'
 		},
 		{
-			"value": "nl",
-			"label": "Holandský"
+			value: 'nl',
+			label: 'Holandský'
 		},
 		{
-			"value": "en",
-			"label": "Angličtina"
+			value: 'en',
+			label: 'Angličtina'
 		},
 		{
-			"value": "et",
-			"label": "Estónsky"
+			value: 'et',
+			label: 'Estónsky'
 		},
 		{
-			"value": "fi",
-			"label": "Fínsky"
+			value: 'fi',
+			label: 'Fínsky'
 		},
 		{
-			"value": "fr",
-			"label": "Francúzsky"
+			value: 'fr',
+			label: 'Francúzsky'
 		},
 		{
-			"value": "de",
-			"label": "Nemecký"
+			value: 'de',
+			label: 'Nemecký'
 		},
 		{
-			"value": "el",
-			"label": "Grécky"
+			value: 'el',
+			label: 'Grécky'
 		},
 		{
-			"value": "hu",
-			"label": "Maďarský"
+			value: 'hu',
+			label: 'Maďarský'
 		},
 		{
-			"value": "ga",
-			"label": "Írsky"
+			value: 'ga',
+			label: 'Írsky'
 		},
 		{
-			"value": "it",
-			"label": "Taliansky"
+			value: 'it',
+			label: 'Taliansky'
 		},
 		{
-			"value": "lv",
-			"label": "Lotyšský"
+			value: 'lv',
+			label: 'Lotyšský'
 		},
 		{
-			"value": "lt",
-			"label": "Litovský"
+			value: 'lt',
+			label: 'Litovský'
 		},
 		{
-			"value": "mt",
-			"label": "Maltčina"
+			value: 'mt',
+			label: 'Maltčina'
 		},
 		{
-			"value": "pl",
-			"label": "Poľský"
+			value: 'pl',
+			label: 'Poľský'
 		},
 		{
-			"value": "pt",
-			"label": "Portugalčina"
+			value: 'pt',
+			label: 'Portugalčina'
 		},
 		{
-			"value": "ro",
-			"label": "Rumunský"
+			value: 'ro',
+			label: 'Rumunský'
 		},
 		{
-			"value": "sk",
-			"label": "Slovenský"
+			value: 'sk',
+			label: 'Slovenský'
 		},
 		{
-			"value": "sl",
-			"label": "Slovensky"
+			value: 'sl',
+			label: 'Slovensky'
 		},
 		{
-			"value": "es",
-			"label": "Španielčina"
+			value: 'es',
+			label: 'Španielčina'
 		},
 		{
-			"value": "sv",
-			"label": "Švédsky"
+			value: 'sv',
+			label: 'Švédsky'
 		}
 	],
-	"sl": [{
-			"value": "bg",
-			"label": "Bolgarščina"
+	sl: [
+		{
+			value: 'bg',
+			label: 'Bolgarščina'
 		},
 		{
-			"value": "hr",
-			"label": "Hrvaški"
+			value: 'hr',
+			label: 'Hrvaški'
 		},
 		{
-			"value": "cs",
-			"label": "Češki"
+			value: 'cs',
+			label: 'Češki'
 		},
 		{
-			"value": "da",
-			"label": "Danski"
+			value: 'da',
+			label: 'Danski'
 		},
 		{
-			"value": "nl",
-			"label": "Nizozemski"
+			value: 'nl',
+			label: 'Nizozemski'
 		},
 		{
-			"value": "en",
-			"label": "Angleščina"
+			value: 'en',
+			label: 'Angleščina'
 		},
 		{
-			"value": "et",
-			"label": "Estonščina"
+			value: 'et',
+			label: 'Estonščina'
 		},
 		{
-			"value": "fi",
-			"label": "Finščina"
+			value: 'fi',
+			label: 'Finščina'
 		},
 		{
-			"value": "fr",
-			"label": "Francoski"
+			value: 'fr',
+			label: 'Francoski'
 		},
 		{
-			"value": "de",
-			"label": "Nemški"
+			value: 'de',
+			label: 'Nemški'
 		},
 		{
-			"value": "el",
-			"label": "Grški"
+			value: 'el',
+			label: 'Grški'
 		},
 		{
-			"value": "hu",
-			"label": "Madžarski"
+			value: 'hu',
+			label: 'Madžarski'
 		},
 		{
-			"value": "ga",
-			"label": "Irski"
+			value: 'ga',
+			label: 'Irski'
 		},
 		{
-			"value": "it",
-			"label": "Italijanski"
+			value: 'it',
+			label: 'Italijanski'
 		},
 		{
-			"value": "lv",
-			"label": "Latvijščina"
+			value: 'lv',
+			label: 'Latvijščina'
 		},
 		{
-			"value": "lt",
-			"label": "Litovščina"
+			value: 'lt',
+			label: 'Litovščina'
 		},
 		{
-			"value": "mt",
-			"label": "Maltežan"
+			value: 'mt',
+			label: 'Maltežan'
 		},
 		{
-			"value": "pl",
-			"label": "Poljski"
+			value: 'pl',
+			label: 'Poljski'
 		},
 		{
-			"value": "pt",
-			"label": "Portugalski"
+			value: 'pt',
+			label: 'Portugalski'
 		},
 		{
-			"value": "ro",
-			"label": "Romunski"
+			value: 'ro',
+			label: 'Romunski'
 		},
 		{
-			"value": "sk",
-			"label": "Slovaški"
+			value: 'sk',
+			label: 'Slovaški'
 		},
 		{
-			"value": "sl",
-			"label": "Slovenščina"
+			value: 'sl',
+			label: 'Slovenščina'
 		},
 		{
-			"value": "es",
-			"label": "Španski"
+			value: 'es',
+			label: 'Španski'
 		},
 		{
-			"value": "sv",
-			"label": "Švedski"
+			value: 'sv',
+			label: 'Švedski'
 		}
 	],
-	"sv": [{
-			"value": "bg",
-			"label": "Bulgariska"
+	sv: [
+		{
+			value: 'bg',
+			label: 'Bulgariska'
 		},
 		{
-			"value": "hr",
-			"label": "Kroatisk"
+			value: 'hr',
+			label: 'Kroatisk'
 		},
 		{
-			"value": "cs",
-			"label": "Tjeckiska"
+			value: 'cs',
+			label: 'Tjeckiska'
 		},
 		{
-			"value": "da",
-			"label": "Danska"
+			value: 'da',
+			label: 'Danska'
 		},
 		{
-			"value": "nl",
-			"label": "Holländska"
+			value: 'nl',
+			label: 'Holländska'
 		},
 		{
-			"value": "en",
-			"label": "Engelsk"
+			value: 'en',
+			label: 'Engelsk'
 		},
 		{
-			"value": "et",
-			"label": "Estniska"
+			value: 'et',
+			label: 'Estniska'
 		},
 		{
-			"value": "fi",
-			"label": "Finska"
+			value: 'fi',
+			label: 'Finska'
 		},
 		{
-			"value": "fr",
-			"label": "Franska"
+			value: 'fr',
+			label: 'Franska'
 		},
 		{
-			"value": "de",
-			"label": "Tysk"
+			value: 'de',
+			label: 'Tysk'
 		},
 		{
-			"value": "el",
-			"label": "Grekisk"
+			value: 'el',
+			label: 'Grekisk'
 		},
 		{
-			"value": "hu",
-			"label": "Ungerska"
+			value: 'hu',
+			label: 'Ungerska'
 		},
 		{
-			"value": "ga",
-			"label": "Irländska"
+			value: 'ga',
+			label: 'Irländska'
 		},
 		{
-			"value": "it",
-			"label": "Italienska"
+			value: 'it',
+			label: 'Italienska'
 		},
 		{
-			"value": "lv",
-			"label": "Lettiska"
+			value: 'lv',
+			label: 'Lettiska'
 		},
 		{
-			"value": "lt",
-			"label": "Litauiska"
+			value: 'lt',
+			label: 'Litauiska'
 		},
 		{
-			"value": "mt",
-			"label": "Maltesiska"
+			value: 'mt',
+			label: 'Maltesiska'
 		},
 		{
-			"value": "pl",
-			"label": "Putsa"
+			value: 'pl',
+			label: 'Putsa'
 		},
 		{
-			"value": "pt",
-			"label": "Portugisiska"
+			value: 'pt',
+			label: 'Portugisiska'
 		},
 		{
-			"value": "ro",
-			"label": "Rumänska"
+			value: 'ro',
+			label: 'Rumänska'
 		},
 		{
-			"value": "sk",
-			"label": "Slovakiska"
+			value: 'sk',
+			label: 'Slovakiska'
 		},
 		{
-			"value": "sl",
-			"label": "Slovenska"
+			value: 'sl',
+			label: 'Slovenska'
 		},
 		{
-			"value": "es",
-			"label": "Spanska"
+			value: 'es',
+			label: 'Spanska'
 		},
 		{
-			"value": "sv",
-			"label": "Svenska"
+			value: 'sv',
+			label: 'Svenska'
 		}
 	]
-}
+};

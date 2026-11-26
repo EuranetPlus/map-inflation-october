@@ -8,5 +8,10 @@
   "textNoteDescription": "Забележка",
   "textNote": "Измерено чрез Хармонизирания индекс на потребителските цени (ХИПЦ).",
   "textDataAccess": "Достъп до данните",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en",
+  "title": "С колко са се повишили потребителските цени в целия ЕС?",
+  "subtitle": "През октомври 2026 г. потребителските цени в целия ЕС бяха с 4,0% по-високи от предходната година. Годишният темп на инфлация варираше от 0,6% в Швеция до 7% в Румъния.",
+  "linkDataAccessDescription": "Достъп до данните",
+  "customUnitLabel": "",
+  "tooltipExtraInfoLabel": "Кликнете тук"
 }

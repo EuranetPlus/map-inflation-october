@@ -8,5 +8,10 @@
   "textNoteDescription": "Nota",
   "textNote": "Măsurat prin Indicele Armonizat al Prețurilor de Consum (IAPC).",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=ro"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=ro",
+  "title": "Cât de mult au crescut prețurile de consum în UE?",
+  "subtitle": "În octombrie 2026, prețurile de consum în întreaga UE au fost cu 4,0% mai mari decât în anul precedent. Rata anuală a inflației a variat de la 0,6% în Suedia la 7% în România.",
+  "linkDataAccessDescription": "Accesați datele",
+  "customUnitLabel": "",
+  "tooltipExtraInfoLabel": "Click aici"
 }

@@ -1,6 +1,5 @@
 <script>
 	import { formatInt } from '$lib/utils/formatNumbers';
-	import { config } from '$lib/stores/config-features';
 
 	let width;
 
@@ -10,35 +9,48 @@
 	export let scaleMin;
 	export let scaleMax;
 
-	clusters.unshift(0);
+	export let mapConfig;
 
-	function displayDigit(index, number) {
-		if (index == 0 || index == 4) {
-			if (config.datasetUnit == 'percent') {
-				return formatInt(number * 100);
-			} else if (config.datasetUnit == 'fullNumbers') {
-				return number;
-			}
-		} else {
-			return '';
-		}
+	// Add the static values from the mapConfig if available
+	$: colorBarFirstValue = mapConfig.overrideScaleValues ? mapConfig.colorBarFirstValue : scaleMin;
+	$: colorBarLastValue = mapConfig.overrideScaleValues ? mapConfig.colorBarLastValue : scaleMax;
+
+	// Force 'fullNumbers' if either colorBarFirstValue or colorBarLastValue exists
+	// if (colorBarFirstValue !== scaleMin || colorBarLastValue !== scaleMax) {
+	// 	mapConfig.datasetUnit = 'fullNumbers';
+	// }
+
+	function displayDigit(index) {
+		if (index === 0)
+			return mapConfig.datasetUnit === 'percent'
+				? formatInt(colorBarFirstValue * 100)
+				: colorBarFirstValue;
+		if (index === classes.length - 1)
+			return mapConfig.datasetUnit === 'percent'
+				? formatInt(colorBarLastValue * 100)
+				: colorBarLastValue;
+		return '';
 	}
+
+	// $: swatchWidth =
+	// 	config.colourSchemeClasses > 9 ? '8vw' : config.colourSchemeClasses > 6 ? '10vw' : '13vw';
+	$: swatchWidth = '5vw';
 </script>
 
 <div
-	class="scale text-sm absolute top-3 rounded bg-white p-3 border"
+	class="scale absolute top-3 rounded border bg-white p-3 text-sm"
 	bind:clientWidth={width}
 	style={`left: calc(50% - ${width / 2}px);`}
 >
 	<div class="flex justify-center">
 		{#each classes as swatch}
-			<div class="swatch" style="background: {swatch};" />
+			<div class="swatch" style="background: {swatch}; width: {swatchWidth}" />
 		{/each}
 	</div>
-	<div class="flex justify-center">
-		{#each clusters as number, index}
-			<div class="swatch text-xs {index == 0 ? 'text-left' : 'text-right'}">
-				{displayDigit(index, index == 0 ? scaleMin : scaleMax)}
+	<div class="flex justify-between">
+		{#each classes as _, index}
+			<div class="swatch text-xs">
+				{displayDigit(index)}
 			</div>
 		{/each}
 	</div>
@@ -46,7 +58,6 @@
 
 <style lang="scss">
 	.swatch {
-		width: 15vw;
 		height: 1.2vh;
 	}
 

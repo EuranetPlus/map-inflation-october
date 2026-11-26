@@ -8,5 +8,10 @@
   "textNoteDescription": "Notiz",
   "textNote": "Gemessen am Harmonisierten Verbraucherpreisindex (HVPI).",
   "textDataAccess": "Greifen Sie auf die Daten zu.",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en",
+  "title": "Um wie viel sind die Verbraucherpreise in der EU gestiegen?",
+  "subtitle": "Im Oktober 2026 lagen die Verbraucherpreise in der EU 4,0 % höher als im Vorjahr. Die jährliche Inflationsrate reichte von 0,6 % in Schweden bis 7 % in Rumänien.",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
+  "customUnitLabel": "",
+  "tooltipExtraInfoLabel": "klicken Sie hier"
 }

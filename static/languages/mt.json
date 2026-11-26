@@ -8,5 +8,10 @@
   "textNoteDescription": "Nota",
   "textNote": "Imkejjel mill-Indiċi Armonizzat tal-Prezzijiet għall-Konsumatur (HICP).",
   "textDataAccess": "Aċċessa d-dejta",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en",
+  "title": "Kemm żdiedu l-prezzijiet għall-konsumatur madwar l-UE?",
+  "subtitle": "F'Ottubru 2026, il-prezzijiet għall-konsumatur madwar l-UE kienu 4.0% ogħla mis-sena ta' qabel. Ir-rata annwali tal-inflazzjoni varjat minn 0.6% fl-Iżvezja sa 7% fir-Rumanija.",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
+  "customUnitLabel": "",
+  "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }

@@ -8,5 +8,10 @@
   "textNoteDescription": "Σημείωμα",
   "textNote": "Μετράται με τον Εναρμονισμένο Δείκτη Τιμών Καταναλωτή (ΕνΔΤΚ).",
   "textDataAccess": "Πρόσβαση στα δεδομένα",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en",
+  "title": "Πόσο έχουν αυξηθεί οι τιμές καταναλωτή σε ολόκληρη την ΕΕ;",
+  "subtitle": "Τον Οκτώβριο του 2026, οι τιμές καταναλωτή σε ολόκληρη την ΕΕ ήταν 4,0% υψηλότερες από ό,τι το προηγούμενο έτος. Ο ετήσιος ρυθμός πληθωρισμού κυμάνθηκε από 0,6% στη Σουηδία έως 7% στη Ρουμανία.",
+  "linkDataAccessDescription": "Πρόσβαση στα δεδομένα",
+  "customUnitLabel": "",
+  "tooltipExtraInfoLabel": "Κάντε κλικ εδώ"
 }

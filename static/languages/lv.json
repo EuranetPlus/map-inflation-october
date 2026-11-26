@@ -8,5 +8,10 @@
   "textNoteDescription": "Piezīme",
   "textNote": "Mērīts pēc saskaņotā patēriņa cenu indeksa (SPCI).",
   "textDataAccess": "Piekļūstiet datiem",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_mmor/default/table?lang=en",
+  "title": "Cik lielā mērā ir pieaugušas patēriņa cenas visā ES?",
+  "subtitle": "2026. gada oktobrī patēriņa cenas visā ES bija par 4,0 % augstākas nekā iepriekšējā gadā. Gada inflācijas līmenis svārstījās no 0,6 % Zviedrijā līdz 7 % Rumānijā.",
+  "linkDataAccessDescription": "Piekļūstiet datiem",
+  "customUnitLabel": "",
+  "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
